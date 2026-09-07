@@ -1,6 +1,6 @@
 # 다운로드한 이미지 목록 — 시리즈감·조형적 동질감 레퍼런스
 
-기준 1개 · 보강 세트 58개 · 기존 조사 103개 · 전체 사진 357장
+기준 1개 · 보강 세트 75개 · 기존 조사 103개 · 전체 사진 414장
 
 각 카드의 로컬 이미지 링크는 이 폴더에 저장된 파일입니다. HTML 리뷰 사이트에서 조사 이미지마다 Pick·Drop을 지정하고, 형태·색상·재질·특징적 요소·부피감·제조기법을 직접 체크할 수 있습니다.
 
@@ -1562,6 +1562,148 @@
 - 세트 유형: 디자인 시리즈·세트
 - 관계 유형: 동물의 종·자세는 달라도 같은 흙빛 재료와 절제된 얼굴선으로 한 작가의 군집을 만드는 도자 조각군
 
+### S62 · Spatial Projects
+
+- 제작·작가: Esther Ferrer
+- 설명: 실·못·케이블·고무줄·로프를 공간에 팽팽하게 걸어 만든 Esther Ferrer의 설치 연작이다. 같은 직선 구조를 유지하지만 선의 수와 간격, 앵커 위치가 달라질 때마다 전혀 다른 공간 도면이 생긴다.
+- 연결 규칙: 점으로 고정된 선, 장력, 빈 공간을 조형 재료로 삼는 규칙이 작품마다 이어진다.
+- 변주 축: 실의 수와 간격, 앵커 위치, 벽·바닥·천장에 걸리는 방향, 설치 규모
+- 설명 출처: [Guggenheim Bilbao — Spatial Projects / Proyectos espaciales](https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/spatial-projects-proyectos-espaciales-series-1990)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S62_01.jpg](downloaded-images/S62_01.jpg) | [열기](https://www.guggenheim-bilbao.eus/en/exhibition/serie-proyectos-espaciales) | 실과 앵커의 수·거리 변주가 서로 다른 공간 도면을 만드는 Spatial Projects 설치 이미지 |
+| 2 | [이미지 2: S62_02.jpg](downloaded-images/S62_02.jpg) | [열기](https://www.guggenheim-bilbao.eus/en/exhibition/serie-proyectos-espaciales) | 실과 앵커의 수·거리 변주가 서로 다른 공간 도면을 만드는 Spatial Projects 설치 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 동일한 장력·선형 문법을 유지하면서 개체마다 선의 밀도와 공간 점유를 바꾸는 설치 연작
+
+### S63 · Almost Home / Hub
+
+- 제작·작가: Do Ho Suh
+- 설명: 서울·뉴욕·베를린 등 작가가 살았던 집의 복도와 방을 반투명 천으로 재구성한 Hub 계열이다. 방의 정체성은 서로 다르지만 봉제된 구조와 세부 부품이 하나의 이동 가능한 건축 가족을 만든다.
+- 연결 규칙: 얇은 폴리에스터 천, 스테인리스 프레임, 실제 주거의 문·스위치·손잡이를 봉제선으로 번역하는 방식이 모든 공간을 연결한다.
+- 변주 축: 도시와 주거 평면, 복도·계단·문 구성, 색으로 구분된 방, 실물 세부의 선택
+- 설명 출처: [Smithsonian American Art Museum — Do Ho Suh](https://americanart.si.edu/exhibitions/suh)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S63_01.jpg](downloaded-images/S63_01.jpg) | [열기](https://americanart.si.edu/blog/eye-level/2018/10/57586/suitcase-home-sarah-newman-do-ho-suh) | 서로 다른 집의 복도와 방이 같은 봉제·반투명 건축 문법으로 이어지는 Almost Home 설치 이미지 |
+| 2 | [이미지 2: S63_02.jpg](downloaded-images/S63_02.jpg) | [열기](https://americanart.si.edu/blog/eye-level/2018/10/57586/suitcase-home-sarah-newman-do-ho-suh) | 서로 다른 집의 복도와 방이 같은 봉제·반투명 건축 문법으로 이어지는 Almost Home 설치 이미지 |
+| 3 | [이미지 3: S63_03.webp](downloaded-images/S63_03.webp) | [열기](https://americanart.si.edu/blog/eye-level/2018/10/57586/suitcase-home-sarah-newman-do-ho-suh) | 서로 다른 집의 복도와 방이 같은 봉제·반투명 건축 문법으로 이어지는 Almost Home 설치 이미지 |
+| 4 | [이미지 4: S63_04.jpg](downloaded-images/S63_04.jpg) | [열기](https://americanart.si.edu/blog/eye-level/2018/10/57586/suitcase-home-sarah-newman-do-ho-suh) | 서로 다른 집의 복도와 방이 같은 봉제·반투명 건축 문법으로 이어지는 Almost Home 설치 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 서로 다른 장소의 건축을 같은 가벼운 제작법과 세부 번역으로 묶는 공간 오브제군
+
+### S64 · Metal Cloth / Bottle-Cap Works
+
+- 제작·작가: El Anatsui
+- 설명: 버려진 병뚜껑과 금속 조각을 이어 거대한 천처럼 늘어뜨리는 El Anatsui의 연작이다. 각 작품은 설치 장소에 따라 주름·처짐·높이가 달라져 단일한 물체보다 유동적인 군집으로 읽힌다.
+- 연결 규칙: 납작하게 자른 금속 조각을 구리선으로 연결하는 반복 결합과 직물 같은 표면이 서로 다른 규모와 실루엣을 묶는다.
+- 변주 축: 금속 조각의 색과 밀도, 패널 크기, 주름과 처짐, 벽·바닥·천장 설치 방식
+- 설명 출처: [El Anatsui — Series / Guggenheim Bilbao Rising Sea](https://elanatsui.art/series)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S64_01.jpg](downloaded-images/S64_01.jpg) | [열기](https://www.guggenheim-bilbao.eus/en/the-collection/works/rising-sea) | 병뚜껑 금속 조각의 연결 방식은 같고 설치 때마다 주름과 실루엣이 달라지는 Metal Cloth 참고 이미지 |
+| 2 | [이미지 2: S64_02.jpg](downloaded-images/S64_02.jpg) | [열기](https://www.guggenheim-bilbao.eus/en/the-collection/works/rising-sea) | 병뚜껑 금속 조각의 연결 방식은 같고 설치 때마다 주름과 실루엣이 달라지는 Metal Cloth 참고 이미지 |
+| 3 | [이미지 3: S64_03.webp](downloaded-images/S64_03.webp) | [열기](https://www.guggenheim-bilbao.eus/en/the-collection/works/rising-sea) | 병뚜껑 금속 조각의 연결 방식은 같고 설치 때마다 주름과 실루엣이 달라지는 Metal Cloth 참고 이미지 |
+| 4 | [이미지 4: S64_04.jpg](downloaded-images/S64_04.jpg) | [열기](https://www.guggenheim-bilbao.eus/en/the-collection/works/rising-sea) | 병뚜껑 금속 조각의 연결 방식은 같고 설치 때마다 주름과 실루엣이 달라지는 Metal Cloth 참고 이미지 |
+| 5 | [이미지 5: S64_05.jpg](downloaded-images/S64_05.jpg) | [열기](https://www.guggenheim-bilbao.eus/en/the-collection/works/rising-sea) | 병뚜껑 금속 조각의 연결 방식은 같고 설치 때마다 주름과 실루엣이 달라지는 Metal Cloth 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 작은 이질적 금속 조각을 하나의 직물 문법으로 묶고 전체 형태를 현장마다 다시 구성하는 연작
+
+### S65 · Monochrome Assemblages
+
+- 제작·작가: Louise Nevelson
+- 설명: 거리에서 모은 나무 조각과 상자를 쌓아 벽·기둥·방 형태로 만든 Louise Nevelson의 조각군이다. 내부 부품은 제각각이지만 한 색의 도장이 모두를 건축적 부조로 통합한다.
+- 연결 규칙: 상자형 칸, 반복되는 적층 구조, 단색 도장, 깊은 그림자가 서로 다른 발견물에 공통 프레임을 준다.
+- 변주 축: 칸의 깊이와 크기, 내부 나무 조각의 종류, 벽·기둥·독립 구조, 높이와 폭
+- 설명 출처: [The Museum of Modern Art — Louise Nevelson](https://www.moma.org/artists/4278-louise-nevelson)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S65_01.jpg](downloaded-images/S65_01.jpg) | [열기](https://www.moma.org/audio/playlist/354/4962) | 서로 다른 나무 조각이 동일한 단색 도장과 칸 구조로 하나의 벽면 조각이 되는 Nevelson 참고 이미지 |
+| 2 | [이미지 2: S65_02.jpg](downloaded-images/S65_02.jpg) | [열기](https://www.moma.org/audio/playlist/354/4962) | 서로 다른 나무 조각이 동일한 단색 도장과 칸 구조로 하나의 벽면 조각이 되는 Nevelson 참고 이미지 |
+| 3 | [이미지 3: S65_03.jpg](downloaded-images/S65_03.jpg) | [열기](https://www.moma.org/audio/playlist/354/4962) | 서로 다른 나무 조각이 동일한 단색 도장과 칸 구조로 하나의 벽면 조각이 되는 Nevelson 참고 이미지 |
+| 4 | [이미지 4: S65_04.jpg](downloaded-images/S65_04.jpg) | [열기](https://www.moma.org/audio/playlist/354/4962) | 서로 다른 나무 조각이 동일한 단색 도장과 칸 구조로 하나의 벽면 조각이 되는 Nevelson 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 이질적인 found object를 공통 색과 프레임으로 묶어 하나의 조형 환경으로 만드는 사례
+
+### S67 · Relatum
+
+- 제작·작가: Lee Ufan
+- 설명: 돌·철판·유리·고무 같은 최소한의 요소를 서로 마주 보게 놓는 Lee Ufan의 장기 연작이다. 개체의 모양보다 재료 사이의 거리와 긴장이 작품마다 관계의 구조를 만든다.
+- 연결 규칙: 자연석과 산업 재료를 한 쌍 또는 느슨한 군집으로 놓고, 여백과 접촉을 조형 요소로 삼는 규칙이 이어진다.
+- 변주 축: 돌의 수와 형태, 철판·유리·고무의 선택, 접촉·간격·겹침, 설치 장소
+- 설명 출처: [Guggenheim — Lee Ufan: Marking Infinity](https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-tmcaa-lee-ufan.pdf)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S67_01.webp](downloaded-images/S67_01.webp) | [열기](https://www.lightingservicesinc.com/gallery/project/guggenheim-museum-lee-ufan-exhibition) | 각기 다른 돌이 철판·쿠션·바닥과의 관계로 하나의 조각군을 이루는 Relatum 참고 이미지 |
+| 2 | [이미지 2: S67_02.jpg](downloaded-images/S67_02.jpg) | [열기](https://www.lightingservicesinc.com/gallery/project/guggenheim-museum-lee-ufan-exhibition) | 각기 다른 돌이 철판·쿠션·바닥과의 관계로 하나의 조각군을 이루는 Relatum 참고 이미지 |
+| 3 | [이미지 3: S67_03.jpg](downloaded-images/S67_03.jpg) | [열기](https://www.lightingservicesinc.com/gallery/project/guggenheim-museum-lee-ufan-exhibition) | 각기 다른 돌이 철판·쿠션·바닥과의 관계로 하나의 조각군을 이루는 Relatum 참고 이미지 |
+| 4 | [이미지 4: S67_04.jpg](downloaded-images/S67_04.jpg) | [열기](https://www.lightingservicesinc.com/gallery/project/guggenheim-museum-lee-ufan-exhibition) | 각기 다른 돌이 철판·쿠션·바닥과의 관계로 하나의 조각군을 이루는 Relatum 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 공통된 재료 쌍과 여백의 규칙으로 개체마다 다른 관계도를 만드는 비균일 설치 연작
+
+### S69 · Thread Installations / The Soul Trembles
+
+- 제작·작가: Chiharu Shiota
+- 설명: 수천 미터의 실을 방·천장·배·가방·피아노 같은 오브제에 얽어 공간 전체를 하나의 기억망으로 만드는 Chiharu Shiota의 설치 연작이다. 중심 오브제는 달라져도 실의 축적과 얽힘이 시리즈를 묶는다.
+- 연결 규칙: 반복되는 실의 장력, 밀도 변화, 특정 오브제를 감싸는 방식과 공간을 가로지르는 선이 작품마다 이어진다.
+- 변주 축: 중심 오브제, 실의 색과 밀도, 방의 크기, 바닥·벽·천장으로 퍼지는 방향
+- 설명 출처: [Mori Art Museum — Chiharu Shiota: The Soul Trembles](https://www.mori.art.museum/en/exhibitions/shiotachiharu/04/index.html)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S69_01.webp](downloaded-images/S69_01.webp) | [열기](https://www.chiharu-shiota.com/top) | 서로 다른 오브제를 같은 실의 얽힘과 공간 밀도로 연결하는 Chiharu Shiota 설치 이미지 |
+| 2 | [이미지 2: S69_02.webp](downloaded-images/S69_02.webp) | [열기](https://www.chiharu-shiota.com/top) | 서로 다른 오브제를 같은 실의 얽힘과 공간 밀도로 연결하는 Chiharu Shiota 설치 이미지 |
+| 3 | [이미지 3: S69_03.jpg](downloaded-images/S69_03.jpg) | [열기](https://www.chiharu-shiota.com/top) | 서로 다른 오브제를 같은 실의 얽힘과 공간 밀도로 연결하는 Chiharu Shiota 설치 이미지 |
+| 4 | [이미지 4: S69_04.jpg](downloaded-images/S69_04.jpg) | [열기](https://www.chiharu-shiota.com/top) | 서로 다른 오브제를 같은 실의 얽힘과 공간 밀도로 연결하는 Chiharu Shiota 설치 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 대상 오브제는 변주하면서 실의 선·장력·포획 규칙으로 공간 전체를 한 가족처럼 만드는 설치군
+
+### S70 · Dengo / Crochet Environments
+
+- 제작·작가: Ernesto Neto
+- 설명: 손뜨개 그물과 주머니, 매듭, 유기적 덩어리를 천장과 바닥에 연결해 여러 개의 ‘살아 있는 섬’을 만드는 Ernesto Neto의 환경 조각이다. 각 덩어리는 다르지만 연속된 뜨개 구조가 하나의 생태계처럼 묶는다.
+- 연결 규칙: 탄성 있는 그물, 반복 매듭, 늘어지는 주머니형 볼륨과 유기적인 연결부가 서로 다른 크기를 통합한다.
+- 변주 축: 주머니·기둥·천장막의 크기, 매달림 높이, 통로와 빈 공간, 충전 재료
+- 설명 출처: [MAM São Paulo — Ernesto Neto: Dengo](https://mam.org.br/en/exhibition/ernesto-neto-dengo/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S70_01.jpg](downloaded-images/S70_01.jpg) | [열기](https://www.moca.org/exhibitions/ernesto-neto) | 서로 다른 주머니·막·기둥이 연속된 손뜨개와 유기적 매듭으로 연결되는 Dengo 참고 이미지 |
+| 2 | [이미지 2: S70_02.jpg](downloaded-images/S70_02.jpg) | [열기](https://www.moca.org/exhibitions/ernesto-neto) | 서로 다른 주머니·막·기둥이 연속된 손뜨개와 유기적 매듭으로 연결되는 Dengo 참고 이미지 |
+| 3 | [이미지 3: S70_03.webp](downloaded-images/S70_03.webp) | [열기](https://www.moca.org/exhibitions/ernesto-neto) | 서로 다른 주머니·막·기둥이 연속된 손뜨개와 유기적 매듭으로 연결되는 Dengo 참고 이미지 |
+| 4 | [이미지 4: S70_04.webp](downloaded-images/S70_04.webp) | [열기](https://www.moca.org/exhibitions/ernesto-neto) | 서로 다른 주머니·막·기둥이 연속된 손뜨개와 유기적 매듭으로 연결되는 Dengo 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 각기 다른 유기적 덩어리를 같은 뜨개 공정과 탄성 구조로 묶어 하나의 공간 생태계로 만드는 사례
+
+### S71 · Timelapse
+
+- 제작·작가: Sarah Sze
+- 설명: 철사·비계·화면·종이·생활용품을 여러 전시장에 흩어 놓고 서로 다른 장면을 하나의 연속 궤적으로 만드는 Sarah Sze의 설치 연작이다. 작은 물건의 집합이 장소마다 다른 밀도와 속도를 만든다.
+- 연결 규칙: 얇은 선형 지지대, 발견된 사물, 투사·반사 이미지, 누적되는 파편이 전시장마다 반복된다.
+- 변주 축: 사용 사물과 화면의 종류, 높이와 밀도, 벽·바닥·천장 점유, 장소별 시점
+- 설명 출처: [Solomon R. Guggenheim Museum — Sarah Sze: Timelapse](https://www.guggenheim.org/exhibition/sarah-sze-timelapse)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S71_01.jpg](downloaded-images/S71_01.jpg) | [열기](https://www.metmuseum.org/art/collection/search/911446) | 서로 다른 생활 사물과 영상이 선형 구조·파편·빛의 문법으로 이어지는 Timelapse 설치 이미지 |
+| 2 | [이미지 2: S71_02.avif](downloaded-images/S71_02.avif) | [열기](https://www.metmuseum.org/art/collection/search/911446) | 서로 다른 생활 사물과 영상이 선형 구조·파편·빛의 문법으로 이어지는 Timelapse 설치 이미지 |
+| 3 | [이미지 3: S71_03.webp](downloaded-images/S71_03.webp) | [열기](https://www.metmuseum.org/art/collection/search/911446) | 서로 다른 생활 사물과 영상이 선형 구조·파편·빛의 문법으로 이어지는 Timelapse 설치 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 장소마다 다른 재료와 장면을 사용하면서도 누적·분산·선형 연결이라는 공통 조형 문법을 유지하는 설치군
+
 ## 패키지·용기
 
 기존 조사 사례와 이번에 보강한 세트 사례를 같은 범주에서 비교합니다.
@@ -2672,6 +2814,159 @@
 
 - 세트 유형: 작품 계열·설치
 - 관계 유형: 조작성을 전제로 한 작품이지만 전시에서는 관람객의 터치보다 판·경첩·틈의 시각적 관계만 참고
+
+### S66 · Dibujos sin papel / Reticuláreas
+
+- 제작·작가: Gego (Gertrud Goldschmidt)
+- 설명: 철사와 금속 연결부를 이용해 종이 없는 드로잉을 공간에 세운 Gego의 연작이다. 평면·프레임·격자·메시·부서진 격자로 유형이 확장되며 선과 그림자가 개체들을 연결한다.
+- 연결 규칙: 가느다란 선, 작은 결절, 열린 빈 공간, 벽에 생기는 그림자가 모든 유형의 공통 문법이다.
+- 변주 축: 선의 밀도와 방향, 격자·원형·프레임의 유형, 벽걸이·부유 방식, 크기
+- 설명 출처: [Guggenheim — Gego: Measuring Infinity](https://www.guggenheim.org/wp-content/uploads/2023/03/press-kit-gego-measuring-infinity-20230331.pdf)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S66_01.jpg](downloaded-images/S66_01.jpg) | [열기](https://www.sfmoma.org/artwork/2018.20/) | 같은 선·결절 언어가 격자와 프레임, 메시로 변주되는 Gego의 공간 드로잉 참고 이미지 |
+| 2 | [이미지 2: S66_02.jpg](downloaded-images/S66_02.jpg) | [열기](https://www.sfmoma.org/artwork/2018.20/) | 같은 선·결절 언어가 격자와 프레임, 메시로 변주되는 Gego의 공간 드로잉 참고 이미지 |
+| 3 | [이미지 3: S66_03.webp](downloaded-images/S66_03.webp) | [열기](https://www.sfmoma.org/artwork/2018.20/) | 같은 선·결절 언어가 격자와 프레임, 메시로 변주되는 Gego의 공간 드로잉 참고 이미지 |
+| 4 | [이미지 4: S66_04.jpg](downloaded-images/S66_04.jpg) | [열기](https://www.sfmoma.org/artwork/2018.20/) | 같은 선·결절 언어가 격자와 프레임, 메시로 변주되는 Gego의 공간 드로잉 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 기호처럼 단순한 선과 결절을 반복하되 밀도와 외곽을 바꿔 서로 다른 공간 드로잉을 만드는 연작
+
+### S68 · Quipu
+
+- 제작·작가: Cecilia Vicuña
+- 설명: 잉카의 매듭 기록 장치에서 출발해 실·양모·식물 섬유와 발견물을 천장에 매단 Cecilia Vicuña의 Quipu 연작이다. 각각의 끈은 서로 다른 밀도와 재료를 갖지만 매듭과 수직 흐름이 하나의 기호 체계를 만든다.
+- 연결 규칙: 매듭, 늘어진 선, 원형 천장 앵커, 기록처럼 누적되는 작은 단위가 작품 전체를 연결한다.
+- 변주 축: 끈의 길이·굵기·재료, 색과 매듭 밀도, 천장 높이, 함께 매다는 발견물
+- 설명 출처: [Solomon R. Guggenheim Museum — Cecilia Vicuña: Spin Spin Triangulene](https://www.guggenheim.org/exhibition/cecilia-vicuna-spin-spin-triangulene)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S68_01.jpg](downloaded-images/S68_01.jpg) | [열기](https://contemporary.burlington.org.uk/reviews/reviews/cecilia-vicua-spin-spin-triangulene) | 서로 다른 섬유와 발견물이 매듭·수직 흐름·천장 앵커로 이어지는 Quipu 설치 이미지 |
+| 2 | [이미지 2: S68_02.webp](downloaded-images/S68_02.webp) | [열기](https://contemporary.burlington.org.uk/reviews/reviews/cecilia-vicua-spin-spin-triangulene) | 서로 다른 섬유와 발견물이 매듭·수직 흐름·천장 앵커로 이어지는 Quipu 설치 이미지 |
+| 3 | [이미지 3: S68_03.jpg](downloaded-images/S68_03.jpg) | [열기](https://contemporary.burlington.org.uk/reviews/reviews/cecilia-vicua-spin-spin-triangulene) | 서로 다른 섬유와 발견물이 매듭·수직 흐름·천장 앵커로 이어지는 Quipu 설치 이미지 |
+| 4 | [이미지 4: S68_04.png](downloaded-images/S68_04.png) | [열기](https://contemporary.burlington.org.uk/reviews/reviews/cecilia-vicua-spin-spin-triangulene) | 서로 다른 섬유와 발견물이 매듭·수직 흐름·천장 앵커로 이어지는 Quipu 설치 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 개체마다 다른 매듭과 재료를 허용하면서 공통 기호 구조와 수직 배열로 하나의 군집을 만드는 사례
+
+### S72 · Spider/Web Maps
+
+- 제작·작가: Tomás Saraceno
+- 설명: 실제 거미가 만든 웹과 이를 기록한 선형 지도, 구형 네트워크를 전시하는 Tomás Saraceno의 연작이다. 웹마다 밀도와 종이 다르지만 노드·필라멘트·공중 부유라는 문법으로 연결된다.
+- 연결 규칙: 거미줄의 선·노드·망 구조를 확대해 지도와 공간 조각으로 번역하는 방법이 작품 전체를 묶는다.
+- 변주 축: 거미 종과 웹의 밀도, 평면 지도·구형 구조·돔 형태, 빛과 설치 높이
+- 설명 출처: [Studio Tomás Saraceno — Spider/Web Maps series](https://studiotomassaraceno.org/artwork/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S72_01.jpg](downloaded-images/S72_01.jpg) | [열기](https://studiotomassaraceno.org/hybrid-webs/) | 웹의 노드와 선이 평면 지도·돔·공중 구조로 변주되는 Spider/Web Maps 참고 이미지 |
+| 2 | [이미지 2: S72_02.jpg](downloaded-images/S72_02.jpg) | [열기](https://studiotomassaraceno.org/hybrid-webs/) | 웹의 노드와 선이 평면 지도·돔·공중 구조로 변주되는 Spider/Web Maps 참고 이미지 |
+| 3 | [이미지 3: S72_03.jpg](downloaded-images/S72_03.jpg) | [열기](https://studiotomassaraceno.org/hybrid-webs/) | 웹의 노드와 선이 평면 지도·돔·공중 구조로 변주되는 Spider/Web Maps 참고 이미지 |
+| 4 | [이미지 4: S72_04.webp](downloaded-images/S72_04.webp) | [열기](https://studiotomassaraceno.org/hybrid-webs/) | 웹의 노드와 선이 평면 지도·돔·공중 구조로 변주되는 Spider/Web Maps 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 자연 웹의 공통 기하를 유지하면서 밀도·종·규모를 달리해 서로 다른 네트워크 오브제를 만드는 연작
+
+### S73 · Isotype Pictograms
+
+- 제작·작가: Gerd Arntz / Otto Neurath
+- 설명: 사람·직업·사물·행동을 단순한 실루엣으로 바꿔 약 4,000개의 기호를 만든 Isotype 시각 언어다. 대상은 달라도 동일한 비례와 절삭된 기하가 하나의 기호 가족을 유지한다.
+- 연결 규칙: 검은 실루엣, 제한된 색면, 일정한 비례와 반복 가능한 인쇄 단위가 서로 다른 의미를 한 체계로 묶는다.
+- 변주 축: 인물의 자세와 역할, 사물의 외곽, 채움·윤곽·색면, 기호의 조합과 배치
+- 설명 출처: [Gerd Arntz Web Archive](https://www.gerdarntz.org/content/gerd-arntz.html)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S73_01.gif](downloaded-images/S73_01.gif) | [열기](https://www.kunstmuseum.nl/en/collection/isotype-shoes) | 서로 다른 대상이 같은 비례·실루엣·색면 규칙으로 읽히는 Isotype 기호표 참고 이미지 |
+| 2 | [이미지 2: S73_02.webp](downloaded-images/S73_02.webp) | [열기](https://www.kunstmuseum.nl/en/collection/isotype-shoes) | 서로 다른 대상이 같은 비례·실루엣·색면 규칙으로 읽히는 Isotype 기호표 참고 이미지 |
+| 3 | [이미지 3: S73_03.jpg](downloaded-images/S73_03.jpg) | [열기](https://www.kunstmuseum.nl/en/collection/isotype-shoes) | 서로 다른 대상이 같은 비례·실루엣·색면 규칙으로 읽히는 Isotype 기호표 참고 이미지 |
+| 4 | [이미지 4: S73_04.jpg](downloaded-images/S73_04.jpg) | [열기](https://www.kunstmuseum.nl/en/collection/isotype-shoes) | 서로 다른 대상이 같은 비례·실루엣·색면 규칙으로 읽히는 Isotype 기호표 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 의미와 외곽은 달라도 같은 추상화 규칙과 인쇄 단위로 연결되는 기호 시스템
+
+### S74 · Pirouette Symbol Wall
+
+- 제작·작가: The Museum of Modern Art / MoMA Graphic Design
+- 설명: MoMA의 디자인 전시 Pirouette에서 전원 버튼·앳(@)·지도 핀처럼 서로 다른 기호를 대형 그래픽으로 병치한 환경 그래픽 사례다. 의미는 다르지만 동일한 크기·대비·벽면 점유가 기호들을 한 세트로 보이게 한다.
+- 연결 규칙: 단순한 검정 기호, 한정된 빨강 포인트, 큰 스케일과 넓은 여백이라는 그래픽 규칙이 개별 아이콘을 묶는다.
+- 변주 축: 기호의 의미와 외곽, 벽면 위치, 채움 형태, 화면·벽 그래픽의 조합
+- 설명 출처: [MoMA Press — Pirouette: Turning Points in Design](https://press.moma.org/exhibition/pirouette/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S74_01.jpg](downloaded-images/S74_01.jpg) | [열기](https://press.moma.org/exhibition/pirouette/) | 서로 다른 기호를 동일한 스케일과 대비로 묶은 MoMA Pirouette 전시 설치 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 기호의 의미가 달라도 공통된 크기·색 대비·공간 여백으로 한 시각군을 만드는 환경 그래픽
+
+### S75 · ERCO Logogramm
+
+- 제작·작가: Otl Aicher / ERCO
+- 설명: Otl Aicher가 뮌헨 올림픽의 픽토그램 문법을 조명 기업 ERCO의 안내 체계로 확장한 기호군이다. 자동차·전시·의료·안전 등 대상은 달라지지만 같은 격자와 선 굵기로 연결된다.
+- 연결 규칙: 단순한 기하 도형, 일정한 선 굵기, 정면 실루엣과 모듈 격자가 수백 개의 기호를 한 언어로 묶는다.
+- 변주 축: 기호의 주제와 외곽, 흑백 반전, 화살표·프레임 조합, 적용 매체
+- 설명 출처: [Bilbao Fine Arts Museum — ERCO Logogramm](https://bilbaomuseoa.eus/en/explore/art-work/erco-logogramm/03a6f0d0-e5c5-4292-b210-5bd787fd079f)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S75_01.jpg](downloaded-images/S75_01.jpg) | [열기](https://bilbaomuseoa.eus/en/explore/art-work/erco-logogramm/03a6f0d0-e5c5-4292-b210-5bd787fd079f) | 서로 다른 기능의 아이콘을 동일한 격자·선 굵기·흑백 체계로 묶은 ERCO Logogramm 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 의미와 외곽을 변주하면서도 공통 격자와 기호 제작 규칙을 유지하는 확장형 그래픽 시스템
+
+### S76 · British Road Sign System
+
+- 제작·작가: Jock Kinneir / Margaret Calvert
+- 설명: 영국 도로 전체에 적용된 Kinneir와 Calvert의 표지 체계다. 경고·지시·방향 표지는 서로 다른 외곽과 색을 갖지만 Transport 서체, 화살표, 픽토그램과 간격 규칙이 하나의 시스템을 만든다.
+- 연결 규칙: 삼각형·원형·직사각형의 역할 분담, 색상 코드, Transport 서체, 일정한 여백과 화살표 규칙이 표지들을 연결한다.
+- 변주 축: 표지 기능, 외곽 형태, 색상 코드, 픽토그램과 목적지 조합, 도로 규모
+- 설명 출처: [MoMA — Kinneir and Calvert: British Road Signs](https://www.moma.org/collection/works/407909)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S76_01.jpg](downloaded-images/S76_01.jpg) | [열기](https://press.moma.org/wp-content/uploads/2024/11/MoMA_Pirouette-ObjectLabels_Final.pdf) | 서로 다른 경고·지시·방향 표지가 색·기하·서체 규칙으로 연결되는 영국 도로 표지 참고 이미지 |
+| 2 | [이미지 2: S76_02.webp](downloaded-images/S76_02.webp) | [열기](https://press.moma.org/wp-content/uploads/2024/11/MoMA_Pirouette-ObjectLabels_Final.pdf) | 서로 다른 경고·지시·방향 표지가 색·기하·서체 규칙으로 연결되는 영국 도로 표지 참고 이미지 |
+| 3 | [이미지 3: S76_03.jpg](downloaded-images/S76_03.jpg) | [열기](https://press.moma.org/wp-content/uploads/2024/11/MoMA_Pirouette-ObjectLabels_Final.pdf) | 서로 다른 경고·지시·방향 표지가 색·기하·서체 규칙으로 연결되는 영국 도로 표지 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 기능별 외곽과 색은 달리면서도 정보 위계와 간격 규칙을 공유하는 공공 기호 시스템
+
+### S77 · Black and Red Series
+
+- 제작·작가: Joan Miró
+- 설명: 1938년에 제작된 8점의 에칭 연작으로, 검정의 유기적 형상과 빨강의 선·점·별 모티프가 판마다 다른 구성을 만든다. 개인적인 기호 어휘와 동일한 인쇄 공정이 연속성을 만든다.
+- 연결 규칙: 검정·빨강의 제한된 잉크, 반복되는 곡선·점·별 모티프, 같은 에칭 매체와 종이 비례가 판들을 묶는다.
+- 변주 축: 기호의 위치와 밀도, 곡선·점·덩어리의 비례, 여백과 판 구성
+- 설명 출처: [MoMA — Joan Miró: Untitled from Black and Red Series](https://www.moma.org/collection/works/65014)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S77_01.jpg](downloaded-images/S77_01.jpg) | [열기](https://www.moma.org/calendar/exhibitions/229) | 서로 다른 판면이 동일한 검정·빨강 기호 어휘와 에칭 공정으로 연결되는 Miró 연작 이미지 |
+| 2 | [이미지 2: S77_02.jpg](downloaded-images/S77_02.jpg) | [열기](https://www.moma.org/calendar/exhibitions/229) | 서로 다른 판면이 동일한 검정·빨강 기호 어휘와 에칭 공정으로 연결되는 Miró 연작 이미지 |
+| 3 | [이미지 3: S77_03.jpg](downloaded-images/S77_03.jpg) | [열기](https://www.moma.org/calendar/exhibitions/229) | 서로 다른 판면이 동일한 검정·빨강 기호 어휘와 에칭 공정으로 연결되는 Miró 연작 이미지 |
+| 4 | [이미지 4: S77_04.jpg](downloaded-images/S77_04.jpg) | [열기](https://www.moma.org/calendar/exhibitions/229) | 서로 다른 판면이 동일한 검정·빨강 기호 어휘와 에칭 공정으로 연결되는 Miró 연작 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 판마다 기호의 배치와 밀도는 달리하면서 같은 색·인쇄법·개인 기호 어휘를 유지하는 그래픽 연작
+
+### S78 · Yarn Grid Constructions
+
+- 제작·작가: Fred Sandback
+- 설명: 아크릴 실을 천장과 바닥에 팽팽하게 고정해 실제 부피 대신 선으로 방의 가상 면과 통로를 만드는 Fred Sandback의 설치 연작이다. 선의 위치와 간격이 달라져도 동일한 최소 조형 언어가 남는다.
+- 연결 규칙: 얇은 색 실, 수직·수평 앵커, 빈 공간을 면처럼 읽게 하는 시점 의존성이 작품군을 연결한다.
+- 변주 축: 실의 색과 길이, 선의 수와 간격, 방의 코너·중앙·통로 점유, 관람 시점
+- 설명 출처: [David Zwirner — Large Scale Sculpture: Fred Sandback](https://www.davidzwirner.com/exhibitions/2006/large-scale-sculpture)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S78_01.avif](downloaded-images/S78_01.avif) | [열기](https://annaseaman.net/content/look-again-ways-of-seeing) | 서로 다른 실의 배치가 같은 선·장력·가상 면의 문법으로 공간을 묶는 Sandback 설치 이미지 |
+| 2 | [이미지 2: S78_02.webp](downloaded-images/S78_02.webp) | [열기](https://annaseaman.net/content/look-again-ways-of-seeing) | 서로 다른 실의 배치가 같은 선·장력·가상 면의 문법으로 공간을 묶는 Sandback 설치 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 개체를 덩어리로 만들지 않고 선과 빈 공간의 공통 규칙으로 서로 다른 설치를 하나의 연작으로 만드는 사례
 
 ## 분류 범주
 
