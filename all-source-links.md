@@ -4,17 +4,25 @@
 
 각 사례의 첫 번째 링크는 작품 설명에 사용한 주 출처다. 사진이나 보조 자료의 출처가 다른 경우 하위 항목으로 함께 표기했다.
 
-## 도자·유리·공예 — 36개
+알렉산더 지라드의 Wooden Dolls는 기준 이미지로만 사용했으며, 아래 출처 목록에는 공개 조사 사례와 세트성 보강 자료를 정리했다.
+
+## 체스·기하학·교구 — 4개
+
+R17. [The Geometric Solids — Nienhuis Montessori — The Geometric Solids](https://www.nienhuis.com/us/product/the-geometric-solids/500_004800/)
+R01. [Bauhaus Chess Set — MoMA — Josef Hartwig, Chess Set](https://www.moma.org/collection/works/4240)
+R02. [Chess Set, 1920–1926 — MoMA — Man Ray, Chess Set](https://www.moma.org/collection/works/2807)
+R03. [Field of Towers Chess Set — Zaha Hadid Design — Towers Chess Set](https://www.zaha-hadid-design.com/products/towers-chess-set)
+
+## 도자·유리·공예 — 42개
 
 C01. [Herringbone Vessels — Vitra — Herringbone Collection](https://www.vitra.com/en-gb/product/herringbone)
    - [사진 출처](https://www.viaduct.co.uk/vitra-herringbone-vessels-bowl)
-C02. [Untitled — Coppe, Rocchetti, Vasi a Gradini — Bitossi Ceramiche — Untitled / Ettore Sottsass](https://www.bitossiceramiche.it/collections/untitled-4)
-C03. [Botanica — Formafantasma — Botanica](https://formafantasma.com/work/botanica)
+C15. [Devils Marbles — Pippin Drysdale — Studio / About](https://pippindrysdale.com/studio)
+   - [사진 출처](https://www.adriansassoon.com/artists/85-pippin-drysdale/works/12134-pippin-drysdale-the-devils-marbles-scatterings-2016/)
 C04. [Beads & Pieces — Corning Museum of Glass — Beads and Pieces Collection](https://glasscollection.cmog.org/objects/35950/beads-and-pieces-collection)
    - [사진 출처](https://russellbrightwell.com/hella-jongerius-beads-and-pieces-xl-bottle/)
-   - [사진 출처 · Beads and Pieces bowl, 2006 / Wright via Artsy](https://www.artsy.net/artwork/hella-jongerius-beads-and-pieces-bowl)
-   - [사진 출처 · Beads & Pieces Small Bowl, 2006 / Artecnica via Artsy](https://www.artsy.net/artwork/hella-jongerius-beads-and-pieces-small-bowl)
-   - [보조 출처](https://pdf.archiexpo.com/pdf/artecnica/artecnica-catalog-2012/4050-83508.html)
+C02. [Untitled — Coppe, Rocchetti, Vasi a Gradini — Bitossi Ceramiche — Untitled / Ettore Sottsass](https://www.bitossiceramiche.it/collections/untitled-4)
+C03. [Botanica — Formafantasma — Botanica](https://formafantasma.com/work/botanica)
 C05. [Sisters Collection — Bosa — Sister Louise / Sisters Collection](https://www.bosatrade.com/prodotto/sister-louise-vaso-bianco-opaco-107/)
 C06. [Bolle — Venini — Artglass 2025 catalogue / Bolle](https://www.veniniportal.com/wp-content/uploads/2025/03/VENINI_Artglass2025_web.pdf)
    - [사진 출처](https://venini.au/collections)
@@ -28,8 +36,6 @@ C11. [TY Standard — 1616 arita japan — TY Standard](https://1616arita.jp/col
 C12. [S&B Colour Porcelain — 1616 arita japan — Colour Porcelain](https://1616arita.jp/collection/colour-porcelain/)
 C13. [Ultima Thule — Iittala — Ultima Thule](https://www.iittala.com/en-gb/collections/all-collections/ultima-thule)
 C14. [Braid Vases — Tall & Wide — Zaha Hadid Design — Braid Vase Wide](https://www.zaha-hadid-design.com/products/braid-vase-wide)
-C15. [Devils Marbles — Pippin Drysdale — Studio / About](https://pippindrysdale.com/studio)
-   - [사진 출처](https://www.adriansassoon.com/artists/85-pippin-drysdale/works/12134-pippin-drysdale-the-devils-marbles-scatterings-2016/)
 C16. [Mizuki — nendo — mizuki](https://www.nendo.jp/jp/works/mizuki/)
 C17. [Tea and Coffee Piazza service — The Metropolitan Museum of Art — Tea and Coffee Piazza service](https://www.metmuseum.org/art/collection/search/489874)
    - [사진 출처](https://dia.org/collection/coffee-and-tea-service/105027)
@@ -46,29 +52,28 @@ C24. [Crockery White — 1882 Ltd — Crockery White with Max Lamb](https://1882
 C25. [Indigo Storm — 1882 Ltd — Collections / Indigo Storm](https://1882ltd.com/collections/)
 C26. [Disco Gourds — 1882 Ltd — Disco Gourds with Bethan Laura Wood](https://1882ltd.com/collections/disco-gourds-bethan-laura-wood/)
 S08. [La Boule / La petite Boule — Villeroy & Boch — La Boule](https://www.villeroy-boch.eu/b/la-boule/)
-   - [사진 출처](https://www.villeroy-boch.eu/b/la-boule/)
 S09. [Colonna Re-Edition — Ginori 1735 — Colonna Re-Edition](https://www.ginori1735.com/ap/en/collections/colonna-re-edition)
-   - [사진 출처](https://www.ginori1735.com/ap/en/collections/colonna-re-edition)
+S23. [Vases Découpage — Vitra — Vases Découpage, Barre](https://www.vitra.com/en-us/product/details/vases-decoupage-barre)
+S24. [Dip Collection — Cassina — Karakter Dip Collection Vase](https://www.cassina.com/ww/en/products/karakter-dip-collection-vase.html)
+S25. [Polygon — Moser — Polygon](https://www.moser.com/en/polygon)
+S26. [Sestiere — Cassina — Sestiere](https://www.cassina.com/ww/en/products/sestiere.html)
+S27. [nomadd — NARUMI — nomadd](https://www.narumi.co.jp/en/collection/nomadd/)
+S31. [Figgjo 35 — Figgjo — Figgjo 35](https://www.figgjo.com/series/35)
+S32. [Sobremesa Collection — HAY — Sobremesa Stripe Vase / Collection](https://www.hay.com/hay/accessories/indoor-living/vases--plant-pots/sobremesa-stripe-vase)
+S33. [Jamesware Modular Ceramics — Jamesware Ceramics — Modular Collections](https://jamesware.com/)
+S39. [Alvar Aalto Collection — Iittala — Alvar Aalto Collection](https://www.iittala.com/en-gb/collections/all-collections/alvar-aalto-collection)
+S40. [Fazzoletto — Venini — Fazzoletto](https://www.venini.com/en_eu/collections/icone/fazzoletto)
+S48. [Rimini Blu — Bitossi — Rimini Blu](https://www.bitossiceramiche.it/en/collections/rimini-blu?page=2)
+S49. [B-set — Jongeriuslab — B-set](https://jongeriuslab.com/product/b-set/)
+S50. [Blue Fluted Plain — Royal Copenhagen — Blue Fluted Plain](https://www.royalcopenhagen.com/en-gb/inspirations/table-setting/blue-fluted-plain-serveware-175-cm-155-cm-105-cm-3-pcs-1082301)
+S57. [Isole — Bosa — Isole](https://www.bosatrade.com/prodotto/isole/)
 
-S23. [Vases Découpage — Ronan & Erwan Bouroullec / Vitra — Vitra — Vases Découpage, Barre](https://www.vitra.com/en-us/product/details/vases-decoupage-barre)
-   - [사진 출처](https://www.vitra.com/en-us/product/details/vases-decoupage-barre)
-S24. [Dip Collection — Aldo Bakker / Karakter x Cassina — Cassina — Karakter Dip Collection Vase](https://www.cassina.com/ww/en/products/karakter-dip-collection-vase.html)
-   - [사진 출처](https://www.cassina.com/ww/en/products/karakter-dip-collection-vase.html)
-S25. [Polygon — Jan Čtvrtník / Moser — Moser — Polygon](https://www.moser.com/en/polygon)
-   - [사진 출처](https://www.moser.com/en/polygon)
-S26. [Sestiere — Patricia Urquiola / Cassina — Cassina — Sestiere](https://www.cassina.com/ww/en/products/sestiere.html)
-   - [사진 출처](https://www.cassina.com/ww/en/products/sestiere.html)
-S27. [nomadd — NARUMI CORPORATION — NARUMI — nomadd](https://www.narumi.co.jp/en/collection/nomadd/)
-   - [사진 출처](https://www.narumi.co.jp/en/collection/nomadd/)
-S31. [Figgjo 35 — Ragnar Grimsrud / Figgjo — Figgjo — Figgjo 35](https://www.figgjo.com/series/35)
-   - [사진 출처](https://www.figgjo.com/series/35)
-S32. [Sobremesa Collection — Laila Gohar / HAY — HAY — Sobremesa Stripe Vase / Collection](https://www.hay.com/hay/accessories/indoor-living/vases--plant-pots/sobremesa-stripe-vase)
-   - [사진 출처](https://www.hay.com/hay/accessories/indoor-living/vases--plant-pots/sobremesa-stripe-vase)
-S33. [Jamesware Modular Ceramics — Jamesware Ceramics — Jamesware Ceramics — Modular Collections](https://jamesware.com/)
-   - [사진 출처](https://jamesware.com/)
+## 캐릭터·조각·완구 — 48개
 
-## 캐릭터·조각·완구 — 37개
-
+F15. [Repetition Nineteen III — MoMA — Repetition Nineteen III](https://www.moma.org/collection/works/81930)
+F27. [상여 악사 꼭두 세트 — 국립민속박물관 — 기증 특별전 《꼭두》](https://www.nfm.go.kr/user/planexhibition/home/20/selectPlanExhibitionLView.do?planExhibitionIdx=1471)
+F13. [The Family of Man — Barbara Hepworth — The Family of Man](https://barbarahepworth.org.uk/sculptures/1970/the-family-of-man/index.php?sort=catalogue)
+F24. [Soundsuits — MCA Chicago — Nick Cave: Forothermore](https://mcachicago.org/whats-on/exhibitions/nick-cave-forothermore/)
 F01. [16 Animali — Danese Milano — 16 animali](https://www.danesemilano.com/it/productDetails?idProduct=60)
 F02. [King Stag 마리오네트 — MoMA — The making of the marionettes](https://www.moma.org/audio/playlist/318/4118)
 F03. [Kay Bojesen 목제 동물군 — Rosendahl — Wooden figures and sculptures](https://www.rosendahl.com/en/intl/products/interiors/decoration/wooden-figures-and-sculptures)
@@ -81,10 +86,8 @@ F09. [Bird — Small, Large, Chubby — ARCHITECTMADE — BIRD / Kristian Vedel]
 F10. [The Triadic Ballet의 인물 의상군 — Heinz-Bosl-Stiftung — The Triadic Ballet](https://heinz-bosl-stiftung.de/en/bjbm/repertoire/das-triadische-ballett-von-oskar-schlemmer-1922)
 F11. [Nanas — Niki Charitable Art Foundation — Nanas and FIAC](https://nikidesaintphalle.org/nanas-fiac/)
 F12. [Personages — Quarantania, I — MoMA — Quarantania, I](https://www.moma.org/collection/works/81955)
-F13. [The Family of Man — Barbara Hepworth — The Family of Man](https://barbarahepworth.org.uk/sculptures/1970/the-family-of-man/index.php?sort=catalogue)
 F14. [Women of Venice — Fondation Giacometti — Conservation of Women of Venice](https://www.fondation-giacometti.fr/en/article/79/conservation-of-women-of-venice)
    - [사진 출처](https://www.guggenheim-bilbao.eus/en/exhibition/sala-209-el-existencialismo-figuras-alargadas-y-filiformes)
-F15. [Repetition Nineteen III — MoMA — Repetition Nineteen III](https://www.moma.org/collection/works/81930)
 F16. [American Field — Antony Gormley — American Field](https://www.antonygormley.com/works/exhibitions/american-field-new-york)
 F17. [Agora — Chicago Park District — Agora](https://www.chicagoparkdistrict.com/parks-facilities/agora-artwork)
 F18. [Human Nature — Public Art Fund — Ugo Rondinone: Human Nature](https://www.publicartfund.org/exhibitions/view/ugo-rondinone-human-nature/)
@@ -94,36 +97,56 @@ F21. [COMPANION — NGV — KAWS: Companionship in the Age of Loneliness](https:
 F22. [All the Eternal Love I Have for the Pumpkins — Dallas Museum of Art — All the Eternal Love I Have for the Pumpkins](https://dma.org/press-room/special-exhibition-yayoi-kusamas-infinity-room-yayoi-kusama-all-eternal-love-i-have)
    - [사진 출처](https://dma.org/art/exhibitions/yayoi-kusama-all-eternal-love-i-have-pumpkins)
 F23. [Balloon Animal Sculptures — 풍선 동물 조형 계열 — Jeff Koons — Shop / Balloon editions](https://www.jeffkoons.com/shop)
-F24. [Soundsuits — MCA Chicago — Nick Cave: Forothermore](https://mcachicago.org/whats-on/exhibitions/nick-cave-forothermore/)
 F25. [Akua'ba 인물 조각 전통 — The Metropolitan Museum of Art — Akua ‘ba (Akua’s child) figure](https://www.metmuseum.org/toah/works-of-art/1979.206.75/)
 F26. [Haniwa 인물·동물 조각군 — Museum of the Sakitama Ancient Burial Mounds — The World of Haniwa](https://artsandculture.google.com/story/the-world-of-haniwa-museum-of-the-sakitama-ancient-burial-mounds/WgXx52JAJRUaIA?hl=en)
-F27. [상여 악사 꼭두 세트 — 국립민속박물관 — 기증 특별전 《꼭두》](https://www.nfm.go.kr/user/planexhibition/home/20/selectPlanExhibitionLView.do?planExhibitionIdx=1471)
 F28. [Plaga — Taller Jacobo y María Ángeles — Plaga](https://www.jacoboymariaangeles.com/plaga)
 S02. [Puppy — Magis — Puppy](https://www.magisdesign.com/product/puppy/)
-   - [사진 출처](https://www.magisdesign.com/product/puppy/)
-S07. [Wooden Animals — Kay Bojesen / Rosendahl — Wooden animals](https://www.rosendahl.com/en/intl/kay-bojesen/products/wooden-animals)
-   - [사진 출처](https://www.rosendahl.com/en/intl/kay-bojesen/products/wooden-animals)
+S07. [Wooden Animals — Rosendahl — Kay Bojesen Wooden Animals](https://www.rosendahl.com/en/intl/kay-bojesen/products/wooden-animals)
 S10. [Oogi Family — MOLUK — Oogi Family](https://www.moluk.com/products/oogi-family-suction-cup-figures)
-   - [사진 출처](https://www.moluk.com/products/oogi-family-suction-cup-figures)
 S11. [Rabbit Collection — Qeeboo — Rabbit Collection](https://www.qeeboo.com/en/collections/rabbit-collection)
-   - [사진 출처](https://www.qeeboo.com/en/collections/rabbit-collection)
-
-S19. [Little Bird — Anderssen & Voll / Normann Copenhagen — Normann Copenhagen — Little Bird](https://www.normann-copenhagen.com/en/product/product-collections/little-bird/)
-   - [사진 출처](https://www.normann-copenhagen.com/en/product/product-collections/little-bird/)
-S20. [Silhouettes — Alexander Girard / Vitra — Vitra — Silhouettes](https://www.vitra.com/en-us/product/silhouette/)
-   - [사진 출처](https://www.vitra.com/en-us/product/silhouette/)
-
-S34. [Birds by Toikka — Oiva Toikka / Iittala — Iittala — Birds by Toikka](https://www.iittala.com/en-gb/collections/all-collections/birds-by-toikka)
+S19. [Little Bird — Normann Copenhagen — Little Bird](https://www.normann-copenhagen.com/en/product/product-collections/little-bird/)
+S20. [Silhouettes — Vitra — Silhouettes](https://www.vitra.com/en-us/product/silhouette/)
+S34. [Birds by Toikka — Iittala — Birds by Toikka](https://www.iittala.com/en-gb/collections/all-collections/birds-by-toikka)
    - [사진 출처](https://www.iittala.com/en-gb/universe/inspiration/the-story-of-birds)
-S35. [Big Five — Maximilian Hagstotz / Meissen — Meissen — Big Five](https://www.meissen.com/net/seriescategory/big-five)
-   - [사진 출처](https://www.meissen.com/net/seriescategory/big-five)
-S36. [Animal Collection — Setsu & Shinobu Ito / Riva1920 — Riva1920 — Animal Collection](https://www.riva1920.it/en/collections/home-decor-collections/animal-collection)
-   - [사진 출처](https://www.riva1920.it/en/collections/home-decor-collections/animal-collection)
+S35. [Big Five — Meissen — Big Five](https://www.meissen.com/net/seriescategory/big-five)
+S36. [Animal Collection — Riva1920 — Animal Collection](https://www.riva1920.it/en/collections/home-decor-collections/animal-collection)
+S37. [Girard Wooden Dolls — Vitra — Wooden Dolls](https://www.vitra.com/en-us/product/wooden-dolls/1000)
+S41. [Looped-Wire Sculptures — Ruth Asawa — Sculpture](https://ruthasawa.com/art/sculpture/)
+S42. [Dada Heads & Turned Forms — MoMA — Sophie Taeuber-Arp, Dada Head](https://www.moma.org/collection/works/88254?art_term_slug=dada&sov_referrer=art_term)
+S44. [Mobiles, Stabiles & Constellations — Guggenheim — Calder: Gravity and Grace](https://www.guggenheim.org/exhibition/calder-gravity-and-grace)
+S45. [Empreinte Animale — Lalique — Empreinte Animale](https://us.lalique.com/pages/empreinte-animale-decorative-objects-collection)
+S46. [Beasts — L'Objet — Haas Brothers Craftsmanship](https://www.l-objet.com/pages/craftsmanship-haas-brothers)
+S55. [Animal Factory — Magis — Animal Factory](https://www.magisdesign.com/zh-hans/product/animal-factory/)
+S56. [Primates — Bosa — Primates](https://www.bosatrade.com/collections/collezioni/complementi-d-arredo/)
+   - [사진 출처](https://www.bosatrade.com/prodotto/primates-kandti/)
+S58. [Momonsters — Bosa — Momonsters](https://www.bosatrade.com/prodotto/momonsters/)
+S59. [Most Illustrious — Bosa — Most Illustrious](https://www.bosatrade.com/prodotto/mostillustrious-achille/)
+   - [사진 출처](https://www.bosatrade.com/collections/collezioni/sculture/)
+S60. [Lilla Zoo — Lisa Larson Shop / Gustavsberg — Lilla Zoo](https://gustavsbergsporslinsfabrik.se/produkt-kategori/formgivare/lisa-larson/)
+   - [사진 출처](https://lisalarson.myshopify.com/collections/frontpage)
 
-## 가구·조명·제품 — 35개
+## 패키지·용기 — 8개
+
+R05. [Portraits Collection — Penhaligon’s — Portraits Collection](https://www.penhaligons.com/uk/en/c/collections--60000/portraits-collection--60120)
+R04. [Nasomatto perfume collection — Nasomatto — Official Store](https://nasomatto.com/)
+   - [사진 출처](https://nasomatto.com/collections/fragrances)
+R06. [method home-care packaging family — method — Our Packaging](https://methodproducts.co.uk/beyond-the-bottle/packaging/)
+   - [보조 출처](https://trellis.net/article/inside-methods-method-design/)
+R07. [Aesop packaging family — Aesop — Sustainability & Packaging](https://www.aesop.com/sustainability.html)
+   - [보조 출처](https://us.assistance.aesop.com/hc/en-us/articles/7406664205327-What-materials-do-Aesop-utilise-in-its-packaging)
+R24. [DURAN laboratory glassware — DWK Life Sciences — DURAN Products](https://www.dwk.com/na/laboratory/brands/duran)
+   - [사진 출처](https://www.dwk.com/duran-beaker-low-form-with-spout)
+S17. [Le Labo Classic Collection — Le Labo — Classic Collection](https://www.lelabofragrances.com/fr/classic-collection.html)
+S18. [Aesop Product Range — Aesop — All Products](https://www.aesop.co.jp/all-products/)
+S47. [Family Follows Fiction — Stefano Giovannoni — Plastic Alessi / Family Follows Fiction](https://www.stefanogiovannoni.com/furniture/plastic-alessi)
+
+## 가구·조명·제품 — 41개
 
 P01. [Akari Light Sculptures — The Noguchi Museum — Akari Light Sculptures](https://shop.noguchi.org/collections/akari-light-sculptures)
    - [사진 출처](https://www.vitra.com/en-gb/product/1559526)
+P15. [Plissé small appliances — Alessi — Plissé](https://alessi.com/fr/pages/plisse)
+P08. [Bold collection — Moustache — Bold Bench](https://www.moustache.fr/en/bancs/1229-banc-bold.html)
+P17. [field system — Teenage Engineering — field system](https://teenage.engineering/products/field-system)
 P02. [Nelson Bubble Lamps — Herman Miller — Nelson Triple Bubble Lamp Fixture](https://www.hermanmiller.com/products/accessories/lighting/nelson-triple-bubble-lamp-fixture/)
 P03. [Beat Collection — Tom Dixon — The Beat Collection](https://www.tomdixon.net/beat)
    - [사진 출처](https://www.connox.com/tom-dixon-the-company/tom-dixon-beat-lamps.html)
@@ -131,9 +154,6 @@ P04. [IC Lights family — Flos — IC Lights family by Michael Anastassiades](h
 P05. [Coral · Floral · Kina — David Trubridge — Kina](https://davidtrubridge.com/products/kina-sale)
 P06. [Raimond II collection — Moooi — Raimond II](https://www.moooi.com/nl-nl/product/raimond-ii)
 P07. [Gregg family — Foscarini — Gregg](https://www.foscarini.com/en/product-category/concetto-en/gregg-concetto-en/)
-P08. [Bold collection — Moustache — Bold Bench](https://www.moustache.fr/en/bancs/1229-banc-bold.html)
-   - [사진 출처 · 이미지 1](https://www.moustache.fr/fr/chaises/1219-chaise-bold.html)
-   - [사진 출처 · 이미지 2](https://www.moustache.fr/en/stool/1195-tabouret-bold.html)
 P09. [Steelwood collection — Studio Bouroullec — Steelwood collection](https://www.bouroullec.com/view_projets_detail_new.php?id=172&r=false)
 P10. [Puffy series — Hem — Puffy 2.5-seater Sofa](https://pro.hem.com/en-us/furniture/couches-and-poufs/puffy/20723)
 P11. [Roly Poly collection — Driade — Roly Poly](https://www.driade.com/us/roly-poly-config-sofa.html)
@@ -141,9 +161,7 @@ P11. [Roly Poly collection — Driade — Roly Poly](https://www.driade.com/us/r
 P12. [Serie Up — B&B Italia — Serie Up 2000](https://www.bebitalia.com/en-de/de-serie-up-2000-poltrone.html)
 P13. [Togo — Ligne Roset — Michel Ducaroy / Togo](https://www.ligne-roset.com/en-ca/designers/michel-ducaroy)
 P14. [Sé Collection III — Sé — Collection III](https://www.se-collections.com/collections/collection-iii)
-P15. [Plissé small appliances — Alessi — Plissé](https://alessi.com/fr/pages/plisse)
 P16. [50's Style appliances — Smeg — Housewares, Icons of the Domestic Landscape](https://www.smeg.com/us/inspirations/smeg-housewares-icons-of-the-domestic-landscape.html)
-P17. [field system — Teenage Engineering — field system](https://teenage.engineering/products/field-system)
 P18. [L-leg Collection — Artek — L-leg Collection](https://www.artek.fi/en/collections/l-leg-collection)
 P19. [Quaderna series — Zanotta — The Quaderna series](https://www.zanotta.com/en-us/magazine/quaderna-50/the-quaderna-series)
 P20. [Washington Collection — Adjaye Associates — Knoll Washington Collection](https://www.adjaye.com/work/knoll-washington-collection/)
@@ -153,51 +171,30 @@ P23. [M'Afrique collection — Moroso — M'Afrique](https://moroso.it/famiglia/
    - [사진 출처](https://www.marcthorpedesign.com/morosomafrique)
 P24. [Luxembourg collection — Fermob — Luxembourg](https://www.fermob.com/en_int/collections/luxembourg.html)
 R26. [50 manga chairs — nendo — 50 manga chairs](https://www.nendo.jp/en/works/50-manga-chairs/)
-S01. [Cork Family — Jasper Morrison / Vitra — Cork Family](https://www.vitra.com/en-lp/product/cork-family)
-   - [사진 출처](https://www.vitra.com/en-lp/product/cork-family)
-S03. [The Dots Coat Hook Family — Lars Tornøe / Muuto — The Dots](https://professionals.muuto.com/products/shop-by-family/dots/)
-   - [사진 출처](https://professionals.muuto.com/products/shop-by-family/dots/)
-S04. [Componibili — Anna Castelli Ferrieri / Kartell — Componibili Collection](https://www.kartell.com/us/en/ktus/shop/dept/componibili/c_0901)
-   - [사진 출처](https://www.kartell.com/us/en/ktus/shop/dept/componibili/c_0901)
-S05. [Stool 60 / E60 Family — Alvar Aalto / Artek — Stools Collection](https://shop.artek.fi/collections/stools)
-   - [사진 출처](https://shop.artek.fi/collections/stools)
-S06. [USM Haller System — Fritz Haller & Paul Schärer / USM — Haller System](https://us.usm.com/pages/usm-haller-system)
-   - [사진 출처](https://us.usm.com/pages/usm-haller-system)
-S12. [Fiber Chair Family — Iskos-Berlin / Muuto — The Fiber Family](https://www.muuto.com/products/shop-by-family/fiber-chair-family/)
-   - [사진 출처](https://www.muuto.com/products/shop-by-family/fiber-chair-family/)
-S13. [About A Chair Collection — Hee Welling & HAY — About A Chair](https://www.hay.com/products/furniture/seating/chairs/about-a-chair)
-   - [사진 출처](https://www.hay.com/products/furniture/seating/chairs/about-a-chair)
-S14. [String Shelving System — Kajsa & Nisse Strinning / String Furniture — String Shelving](https://www.stringfurniture.com/en/series/string)
+S01. [Cork Family — Vitra — Cork Family](https://www.vitra.com/en-lp/product/cork-family)
+S03. [The Dots Coat Hook Family — Muuto — The Dots Coat Hook Family](https://professionals.muuto.com/products/shop-by-family/dots/)
+S04. [Componibili — Kartell — Componibili Collection](https://www.kartell.com/us/en/ktus/shop/dept/componibili/c_0901)
+S05. [Stool 60 / E60 Family — Artek — Stools Collection](https://shop.artek.fi/collections/stools)
+S06. [USM Haller System — USM — Haller System](https://us.usm.com/pages/usm-haller-system)
+S12. [Fiber Chair Family — Muuto — The Fiber Family](https://www.muuto.com/products/shop-by-family/fiber-chair-family/)
+S13. [About A Chair Collection — HAY — About A Chair Collection](https://www.hay.com/products/furniture/seating/chairs/about-a-chair)
+S14. [String Shelving System — String Furniture — String Shelving](https://www.stringfurniture.com/en/series/string)
    - [사진 출처](https://www.stringfurniture.com/en/series/string/system/combinations)
-S15. [IC Lights Family — Michael Anastassiades / Flos — IC Lights Family](https://flos.com/en/gb/shop-products/families/ic-lights-family/)
-   - [사진 출처](https://flos.com/en/gb/shop-products/families/ic-lights-family/)
+S15. [IC Lights Family — Flos — IC Lights Family](https://flos.com/en/gb/shop-products/families/ic-lights-family/)
+S22. [Miniatures Collection — Vitra — Miniatures Collection](https://www.vitra.com/en-us/product/miniatures-collection)
+S38. [Le Bambole — B&B Italia — Le Bambole](https://shop.bebitalia.com/en/us/shop-products/product-overview/le-bambole/)
+   - [사진 출처](https://www.flosbebitaliagroup.com/LeBambole-BeBItalia.html)
+S51. [Officina — Magis — Officina](https://www.magisdesign.com/new-products-new-colours/)
+S52. [Braun Design Classics — Braun — Design and Innovation](https://secure-us.braun.com/en-us/design/design-and-innovation)
+S53. [PH Family — Louis Poulsen — PH Collection](https://www.louispoulsen.com/en/private/shop-by/collection)
+   - [사진 출처](https://www.louispoulsen.com/en-us/guides-inspiration/ph-number-history)
+S54. [Sending Animals — Seletti — Sending Cow](https://www.seletti.it/products/sending-cow)
+S61. [Serge Mouille Lighting — Editions Serge Mouille — La Collection](https://www.serge-mouille.com/)
+   - [사진 출처](https://www.sergemouille.com/la-collection)
 
-S22. [Miniatures Collection — Vitra Design Museum / Vitra — Vitra — Miniatures Collection](https://www.vitra.com/en-us/product/miniatures-collection)
-   - [사진 출처](https://www.vitra.com/en-us/product/miniatures-collection)
+## 식품·조형 실험 — 1개
 
-## 체스·기하학·교구 — 4개
-
-R01. [Bauhaus Chess Set — MoMA — Josef Hartwig, Chess Set](https://www.moma.org/collection/works/4240)
-R02. [Chess Set, 1920–1926 — MoMA — Man Ray, Chess Set](https://www.moma.org/collection/works/2807)
-R03. [Field of Towers Chess Set — Zaha Hadid Design — Towers Chess Set](https://www.zaha-hadid-design.com/products/towers-chess-set)
-R17. [The Geometric Solids — Nienhuis Montessori — The Geometric Solids](https://www.nienhuis.com/us/product/the-geometric-solids/500_004800/)
-
-
-## 패키지·용기 — 7개
-
-R04. [Nasomatto perfume collection — Nasomatto — Official Store](https://nasomatto.com/)
-   - [사진 출처](https://nasomatto.com/collections/fragrances)
-R05. [Portraits Collection — Penhaligon’s — Portraits Collection](https://www.penhaligons.com/uk/en/c/collections--60000/portraits-collection--60120)
-R06. [method home-care packaging family — method — Our Packaging](https://methodproducts.co.uk/beyond-the-bottle/packaging/)
-   - [보조 출처](https://trellis.net/article/inside-methods-method-design/)
-R07. [Aesop packaging family — Aesop — Sustainability & Packaging](https://www.aesop.com/sustainability.html)
-   - [보조 출처](https://us.assistance.aesop.com/hc/en-us/articles/7406664205327-What-materials-do-Aesop-utilise-in-its-packaging)
-R24. [DURAN laboratory glassware — DWK Life Sciences — DURAN Products](https://www.dwk.com/na/laboratory/brands/duran)
-   - [사진 출처](https://www.dwk.com/duran-beaker-low-form-with-spout)
-S17. [Le Labo Classic Collection — Le Labo — Classic Collection](https://www.lelabofragrances.com/fr/classic-collection.html)
-   - [사진 출처](https://www.lelabofragrances.com/fr/classic-collection.html)
-S18. [Aesop Product Range — Aesop — All Products](https://www.aesop.co.jp/all-products/)
-   - [사진 출처](https://www.aesop.co.jp/all-products/)
+R25. [Chocolatexture — nendo — Chocolatexture](https://www.nendo.jp/en/works/chocolatexture-2/)
 
 ## 텍스타일·패션 — 7개
 
@@ -208,16 +205,16 @@ R11. [Quill rugs — nanimarquina — Quill Collection](https://nanimarquina.com
 R21. [Six Prayers — The Jewish Museum — Six Prayers](https://collections.thejewishmuseum.org/collection/16696-six-prayers)
 R22. [Minimes — MoMA — Sheila Hicks / Minimes](https://www.moma.org/collection/artists/2631)
    - [사진 출처](https://www.moma.org/collection/works/189097)
+   - [보조 출처](https://www.moma.org/collection/works/189097)
    - [보조 출처](https://www.moma.org/collection/works/200444)
 S16. [Pleats Please Issey Miyake — Issey Miyake — Pleats Please](https://us.isseymiyake.com/collections/pleatsplease)
-   - [사진 출처](https://us.isseymiyake.com/collections/pleatsplease)
 
 ## 건축·유형학 — 3개
 
-R12. [Architectural models — Chisel & Mouse — Architectural Models](https://chiselandmouse.com/collections/all)
 R16. [Water Towers — The Broad — Water Towers](https://www.thebroad.org/art/bernd-and-hilla-becher/water-towers-3)
+R12. [Architectural models — Chisel & Mouse — Architectural Models](https://chiselandmouse.com/collections/all)
 R23. [한국 소반의 지역별 형식 — 국립중앙박물관 — 해주반](https://www.museum.go.kr/MUSEUM/contents/M0502000000.do?relicId=907&schM=view&searchId=search)
-   - [사진 출처 · 통영식 소반, 증7803](https://www.museum.go.kr/MUSEUM/contents/M0502000000.do?relicId=127787&schM=view&searchId=search)
+   - [보조 출처](https://www.museum.go.kr/MUSEUM/contents/M0502000000.do?relicId=127787&schM=view&searchId=search)
 
 ## 자연·분류 이미지 — 3개
 
@@ -226,18 +223,12 @@ R14. [Kunstformen der Natur / radiolarian plates — Biodiversity Heritage Libra
 R15. [Plant photographs / Urformen vocabulary — MoMA — Karl Blossfeldt](https://www.moma.org/collection/artists/24413)
    - [사진 출처](https://www.pinakothek.de/en/exhibition/parallel-growing-karl-blossfeldt-and-eva-maria-schoen)
 
-## 그래픽·기호 — 3개
+## 그래픽·기호 — 4개
 
 R19. [Macintosh icon sketches — MoMA — Apple Macintosh OS Icon Sketchbook](https://www.moma.org/collection/works/188382)
    - [사진 출처](https://www.moma.org/audio/playlist/12/363)
 R20. [Munich 1972 pictograms & visual system — IDZ / otl aicher 100 — The Rainbow Games](https://www.otlaicher.de/en/articles/the-rainbow-games/)
+S21. [Girard Ornaments — Vitra — Girard Ornaments](https://www.vitra.com/en-us/product/girard-ornaments)
+S43. [Bichos — Projeto Lygia Clark — Bichos](https://portal.lygiaclark.org.br/acervo/1790/brazil-new-images)
 
-S21. [Girard Ornaments — Alexander Girard / Vitra — Vitra — Girard Ornaments](https://www.vitra.com/en-us/product/girard-ornaments)
-   - [사진 출처](https://www.vitra.com/en-us/product/girard-ornaments)
-
-## 식품·조형 실험 — 1개
-
-R25. [Chocolatexture — nendo — Chocolatexture](https://www.nendo.jp/en/works/chocolatexture-2/)
-
-기존 조사 103개 + 세트성 보강 33개 · 전체 사진 259장 · 카드별 설명·이미지 출처를 함께 기록
-
+기존 조사 103개 + 세트성 보강 58개 · 전체 사이트 카드 162개(기준 이미지 포함) · 서로 다른 출처 URL 193개

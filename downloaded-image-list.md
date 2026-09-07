@@ -1,6 +1,6 @@
 # 다운로드한 이미지 목록 — 시리즈감·조형적 동질감 레퍼런스
 
-기준 1개 · 보강 세트 33개 · 기존 조사 103개 · 전체 사진 259장
+기준 1개 · 보강 세트 58개 · 기존 조사 103개 · 전체 사진 357장
 
 각 카드의 로컬 이미지 링크는 이 폴더에 저장된 파일입니다. HTML 리뷰 사이트에서 조사 이미지마다 Pick·Drop을 지정하고, 형태·색상·재질·특징적 요소·부피감·제조기법을 직접 체크할 수 있습니다.
 
@@ -596,6 +596,9 @@
 | 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
 |---:|---|---|---|
 | 1 | [이미지 1: S27_01.jpg](downloaded-images/S27_01.jpg) | [열기](https://www.narumi.co.jp/en/collection/nomadd/) | 다양한 직경·깊이의 접시와 볼을 한 규칙으로 보여주는 NARUMI 공식 이미지 |
+| 2 | [이미지 2: S27_02.jpg](downloaded-images/S27_02.jpg) | [열기](https://www.narumi.co.jp/en/collection/nomadd/) | 다양한 직경·깊이의 접시와 볼을 한 규칙으로 보여주는 NARUMI 공식 이미지 |
+| 3 | [이미지 3: S27_03.jpg](downloaded-images/S27_03.jpg) | [열기](https://www.narumi.co.jp/en/collection/nomadd/) | 다양한 직경·깊이의 접시와 볼을 한 규칙으로 보여주는 NARUMI 공식 이미지 |
+| 4 | [이미지 4: S27_04.jpg](downloaded-images/S27_04.jpg) | [열기](https://www.narumi.co.jp/en/collection/nomadd/) | 다양한 직경·깊이의 접시와 볼을 한 규칙으로 보여주는 NARUMI 공식 이미지 |
 
 - 세트 유형: 디자인 시리즈·세트
 - 관계 유형: 공통 원형 모듈과 적층 대응으로 크기·용도를 확장한 식기군
@@ -658,6 +661,107 @@
 
 - 세트 유형: 디자인 시리즈·세트
 - 관계 유형: 공통 세라믹 비례와 모듈 조합으로 식기·용기를 확장한 컬렉션
+
+### S39 · Alvar Aalto Collection
+
+- 제작·작가: Alvar Aalto / Iittala
+- 설명: Savoy Vase의 물결치는 윤곽을 꽃병·볼·스틸 볼·목제 플래터·촛대 등으로 확장한 Iittala 장기 컬렉션이다.
+- 연결 규칙: 기하학으로 환원되지 않는 불규칙한 곡선과 입으로 불어 만든 유리의 가장자리, 낮고 넓게 퍼지는 비례가 서로 다른 기능을 하나로 연결한다.
+- 변주 축: 꽃병·볼·플래터·촛대의 기능, 높이와 폭, 유리·목재·스틸 재료, 색상
+- 설명 출처: [Iittala — Alvar Aalto Collection](https://www.iittala.com/en-gb/collections/all-collections/alvar-aalto-collection)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S39_01.jpg](downloaded-images/S39_01.jpg) | [열기](https://www.iittala.com/en-gb/collections/all-collections/alvar-aalto-collection) | 꽃병과 볼 등 서로 다른 용기가 Aalto의 물결 윤곽으로 연결되는 Alvar Aalto Collection 참고 이미지 |
+| 2 | [이미지 2: S39_02.jpg](downloaded-images/S39_02.jpg) | [열기](https://www.iittala.com/en-gb/collections/all-collections/alvar-aalto-collection) | 꽃병과 볼 등 서로 다른 용기가 Aalto의 물결 윤곽으로 연결되는 Alvar Aalto Collection 참고 이미지 |
+| 3 | [이미지 3: S39_03.jpg](downloaded-images/S39_03.jpg) | [열기](https://www.iittala.com/en-gb/collections/all-collections/alvar-aalto-collection) | 꽃병과 볼 등 서로 다른 용기가 Aalto의 물결 윤곽으로 연결되는 Alvar Aalto Collection 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 하나의 유기적 곡선 모티프를 여러 용도와 재료로 번역한 공예 컬렉션
+
+### S40 · Fazzoletto
+
+- 제작·작가: Fulvio Bianconi & Paolo Venini / Venini
+- 설명: 손수건의 주름을 닮은 입구를 가진 Murano 유리 화병군이다. 높이·색·가장자리의 흔들림이 조금씩 달라지면서도 같은 손작업 계보를 유지한다.
+- 연결 규칙: 자유롭게 벌어진 주름 림과 얇은 유리 벽, 손으로 잡아 늘인 듯한 비대칭이 모델 전체에서 반복된다.
+- 변주 축: 높이와 폭, 주름의 깊이, 투명·불투명 유리색, 림의 편차
+- 설명 출처: [Venini — Fazzoletto](https://www.venini.com/en_eu/collections/icone/fazzoletto)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S40_01.jpg](downloaded-images/S40_01.jpg) | [열기](https://www.venini.com/en_eu/collections/icone/fazzoletto) | 서로 다른 색과 크기의 Fazzoletto 화병이 같은 주름진 가장자리로 묶이는 컬렉션 이미지 |
+| 2 | [이미지 2: S40_02.avif](downloaded-images/S40_02.avif) | [열기](https://www.venini.com/en_eu/collections/icone/fazzoletto) | 서로 다른 색과 크기의 Fazzoletto 화병이 같은 주름진 가장자리로 묶이는 컬렉션 이미지 |
+| 3 | [이미지 3: S40_03.webp](downloaded-images/S40_03.webp) | [열기](https://www.venini.com/en_eu/collections/icone/fazzoletto) | 서로 다른 색과 크기의 Fazzoletto 화병이 같은 주름진 가장자리로 묶이는 컬렉션 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 동일한 유리 공정에서 생기는 주름과 미세한 손작업 편차를 개체성으로 활용한 화병군
+
+### S48 · Rimini Blu
+
+- 제작·작가: Ettore Sottsass / Bitossi
+- 설명: 병·볼·키 큰 화병·동물 형상 등 서로 다른 도자 오브젝트를 하나의 청색 결정 유약과 손각인 패턴으로 묶은 1959년 이후의 Bitossi 계열이다.
+- 연결 규칙: 백색 화토 위의 깊은 코발트 블루, 표면에 찍힌 선·원·삼각형 모티프와 거친 결정 유약이 형태보다 먼저 가족감을 만든다.
+- 변주 축: 용기와 조각의 기능·높이·몸통 비례, 각인 모티프의 밀도, 유약의 흐름과 색 깊이
+- 설명 출처: [Bitossi — Rimini Blu](https://www.bitossiceramiche.it/en/collections/rimini-blu?page=2)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S48_01.jpg](downloaded-images/S48_01.jpg) | [열기](https://www.bitossiceramiche.it/en/collections/rimini-blu?page=2) | 화병·볼·조각이 같은 청색 결정 유약과 각인 피부로 이어지는 Rimini Blu 참고 이미지 |
+| 2 | [이미지 2: S48_02.webp](downloaded-images/S48_02.webp) | [열기](https://www.bitossiceramiche.it/en/collections/rimini-blu?page=2) | 화병·볼·조각이 같은 청색 결정 유약과 각인 피부로 이어지는 Rimini Blu 참고 이미지 |
+| 3 | [이미지 3: S48_03.jpg](downloaded-images/S48_03.jpg) | [열기](https://www.bitossiceramiche.it/en/collections/rimini-blu?page=2) | 화병·볼·조각이 같은 청색 결정 유약과 각인 피부로 이어지는 Rimini Blu 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 실루엣보다 공통된 유약과 손각인 표면을 통해 서로 다른 도자 형상을 한 세트로 만드는 사례
+
+### S49 · B-set
+
+- 제작·작가: Hella Jongerius
+- 설명: 카페트레이, 카라페, 비커, 그릇과 접시가 하나의 테이블 풍경을 이루는 7점 도자 서비스다. 규격화된 식기보다 가마 변형과 개체 차이를 드러낸다.
+- 연결 규칙: 백색 포슬린, 높은 소성에서 생기는 미세한 휨과 불완전한 모서리, 서로 대응하는 낮고 둥근 비례가 각 용기를 연결한다.
+- 변주 축: 접시·볼·비커·카라페의 기능, 높이와 폭, 가마에서 생긴 변형, 손잡이·뚜껑 유무
+- 설명 출처: [Jongeriuslab — B-set](https://jongeriuslab.com/product/b-set/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S49_01.jpg](downloaded-images/S49_01.jpg) | [열기](https://jongeriuslab.com/product/b-set/) | 서로 다른 식기 형태가 백색 포슬린과 의도된 불완전성으로 묶이는 B-set 참고 이미지 |
+| 2 | [이미지 2: S49_02.webp](downloaded-images/S49_02.webp) | [열기](https://jongeriuslab.com/product/b-set/) | 서로 다른 식기 형태가 백색 포슬린과 의도된 불완전성으로 묶이는 B-set 참고 이미지 |
+| 3 | [이미지 3: S49_03.jpg](downloaded-images/S49_03.jpg) | [열기](https://jongeriuslab.com/product/b-set/) | 서로 다른 식기 형태가 백색 포슬린과 의도된 불완전성으로 묶이는 B-set 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 연속 생산 속에서도 각 개체의 휨과 편차를 남겨 시리즈와 개체성을 동시에 만드는 서비스
+
+### S50 · Blue Fluted Plain
+
+- 제작·작가: Royal Copenhagen
+- 설명: 접시·볼·컵·주전자·서빙 도구처럼 기능과 윤곽이 다른 식기를 파란 플루팅과 손그림 장식으로 이어가는 Royal Copenhagen 컬렉션이다.
+- 연결 규칙: 세로로 흐르는 플루팅 골과 파란 식물 모티프, 흰 자기 바탕이 형태가 달라도 즉시 같은 계열로 인식되게 한다.
+- 변주 축: 식기 기능, 지름과 높이, 플루팅 밀도, 손그림 패턴의 위치와 크기
+- 설명 출처: [Royal Copenhagen — Blue Fluted Plain](https://www.royalcopenhagen.com/en-gb/inspirations/table-setting/blue-fluted-plain-serveware-175-cm-155-cm-105-cm-3-pcs-1082301)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S50_01.webp](downloaded-images/S50_01.webp) | [열기](https://www.royalcopenhagen.com/en-gb/inspirations/table-setting/blue-fluted-plain-serveware-175-cm-155-cm-105-cm-3-pcs-1082301) | 서로 다른 서빙 형태가 같은 청색 플루팅·손그림으로 이어지는 Blue Fluted Plain 참고 이미지 |
+| 2 | [이미지 2: S50_02.jpg](downloaded-images/S50_02.jpg) | [열기](https://www.royalcopenhagen.com/en-gb/inspirations/table-setting/blue-fluted-plain-serveware-175-cm-155-cm-105-cm-3-pcs-1082301) | 서로 다른 서빙 형태가 같은 청색 플루팅·손그림으로 이어지는 Blue Fluted Plain 참고 이미지 |
+| 3 | [이미지 3: S50_03.jpg](downloaded-images/S50_03.jpg) | [열기](https://www.royalcopenhagen.com/en-gb/inspirations/table-setting/blue-fluted-plain-serveware-175-cm-155-cm-105-cm-3-pcs-1082301) | 서로 다른 서빙 형태가 같은 청색 플루팅·손그림으로 이어지는 Blue Fluted Plain 참고 이미지 |
+| 4 | [이미지 4: S50_04.jpg](downloaded-images/S50_04.jpg) | [열기](https://www.royalcopenhagen.com/en-gb/inspirations/table-setting/blue-fluted-plain-serveware-175-cm-155-cm-105-cm-3-pcs-1082301) | 서로 다른 서빙 형태가 같은 청색 플루팅·손그림으로 이어지는 Blue Fluted Plain 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 장식 규칙과 표면 골을 공통 피부로 삼아 서로 다른 식기 기능을 한 제품군으로 묶는 사례
+
+### S57 · Isole
+
+- 제작·작가: Gianluca Paludi / Bosa
+- 설명: 가상의 행성에서 온 섬처럼 다섯 개의 비대칭 화병을 하나의 풍경으로 묶는 Bosa 컬렉션이다. 각각은 독립 오브제이면서 함께 놓을 때 군집이 된다.
+- 연결 규칙: 아래의 안정된 덩어리와 위로 솟는 비대칭 상부라는 두 부분 구조, 유약의 연속성과 수평선 같은 단면이 다섯 점을 연결한다.
+- 변주 축: 섬의 높이·폭·기울기, 상부의 절개와 곡률, 배열 간격과 색상
+- 설명 출처: [Bosa — Isole](https://www.bosatrade.com/prodotto/isole/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S57_01.jpg](downloaded-images/S57_01.jpg) | [열기](https://www.bosatrade.com/prodotto/isole/) | 서로 다른 비대칭 화병이 함께 놓일 때 하나의 섬 풍경이 되는 Isole 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 같은 내부 구조와 표면을 유지하되 실루엣·높이·배열로 군집의 리듬을 만드는 비균일 세트
 
 ## 캐릭터·조각·완구
 
@@ -1258,6 +1362,206 @@
 - 세트 유형: 디자인 시리즈·세트
 - 관계 유형: 동물의 종류는 달라도 같은 목재 덩어리와 절삭 어휘를 유지하는 조각 오브제군
 
+### S37 · Girard Wooden Dolls
+
+- 제작·작가: Alexander Girard / Vitra
+- 설명: 인간과 동물 캐릭터를 각기 다른 실루엣과 표정으로 만든 20여 종의 목조 인형 가족이다. 1952년 지라드가 산타페 자택을 위해 만든 원형을 바탕으로 이어진다.
+- 연결 규칙: solid fir의 가늘고 긴 몸체, 손으로 칠한 표면, 단순화된 얼굴과 패턴이 종과 비례가 달라도 한 작가의 조형군으로 묶는다.
+- 변주 축: 인물·동물의 정체성, 신장과 몸통 비례, 얼굴·의상 패턴, 표정
+- 설명 출처: [Vitra — Wooden Dolls](https://www.vitra.com/en-us/product/wooden-dolls/1000)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S37_01.jpg](downloaded-images/S37_01.jpg) | [열기](https://www.vitra.com/en-us/product/wooden-dolls/1000) | Alexander Girard Wooden Dolls의 서로 다른 인물·동물 모델을 함께 보여주는 Vitra 공식 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 한 작가의 인물·동물 언어를 목재와 손채색 편차로 확장한 캐릭터 조형군
+
+### S41 · Looped-Wire Sculptures
+
+- 제작·작가: Ruth Asawa
+- 설명: 철사를 묶고 반복해 만든 타원·바구니·중첩 구체·편평한 그릇형 조각들이다. 서로 다른 외곽선이 하나의 선재 문법과 내부 공간으로 이어진다.
+- 연결 규칙: 한 가닥의 와이어가 안과 밖을 동시에 만드는 투명한 격자, 반복되는 매듭, 중심을 감싸는 층 구조가 작품군의 공통 문법이다.
+- 변주 축: 외곽선, 층 수와 깊이, 바닥 유무, 크기와 매달림 방식
+- 설명 출처: [Ruth Asawa — Sculpture](https://ruthasawa.com/art/sculpture/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S41_01.jpg](downloaded-images/S41_01.jpg) | [열기](https://ruthasawa.com/art/sculpture/) | 서로 다른 외곽선이 반복 와이어와 내부 공간으로 연결되는 Ruth Asawa 조각 참고 이미지 |
+| 2 | [이미지 2: S41_02.jpg](downloaded-images/S41_02.jpg) | [열기](https://ruthasawa.com/art/sculpture/) | 서로 다른 외곽선이 반복 와이어와 내부 공간으로 연결되는 Ruth Asawa 조각 참고 이미지 |
+| 3 | [이미지 3: S41_03.webp](downloaded-images/S41_03.webp) | [열기](https://ruthasawa.com/art/sculpture/) | 서로 다른 외곽선이 반복 와이어와 내부 공간으로 연결되는 Ruth Asawa 조각 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 선 하나의 반복과 안·밖의 중첩만으로 이질적인 실루엣을 한 조각군으로 묶는 사례
+
+### S42 · Dada Heads & Turned Forms
+
+- 제작·작가: Sophie Taeuber-Arp
+- 설명: Dada 머리·마리오네트와 선반 위의 소형 용기까지, 선반·머리·목을 원통과 타원으로 분해한 1920년대 조형 계열이다.
+- 연결 규칙: 선반에서 선삭한 목재 부품, 단순한 기하학적 머리와 목, 제한된 색면이 인물·용기·마리오네트를 한 계보로 보이게 한다.
+- 변주 축: 머리·몸통·용기의 조합, 비대칭 코와 얼굴, 높이, 색면과 부속 재료
+- 설명 출처: [MoMA — Sophie Taeuber-Arp, Dada Head](https://www.moma.org/collection/works/88254?art_term_slug=dada&sov_referrer=art_term)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S42_01.jpg](downloaded-images/S42_01.jpg) | [열기](https://www.moma.org/collection/works/88254?art_term_slug=dada&sov_referrer=art_term) | 기하학적 목재 부품과 색면으로 연결되는 Sophie Taeuber-Arp의 Dada 조형군 참고 이미지 |
+| 2 | [이미지 2: S42_02.jpg](downloaded-images/S42_02.jpg) | [열기](https://www.moma.org/collection/works/88254?art_term_slug=dada&sov_referrer=art_term) | 기하학적 목재 부품과 색면으로 연결되는 Sophie Taeuber-Arp의 Dada 조형군 참고 이미지 |
+| 3 | [이미지 3: S42_03.avif](downloaded-images/S42_03.avif) | [열기](https://www.moma.org/collection/works/88254?art_term_slug=dada&sov_referrer=art_term) | 기하학적 목재 부품과 색면으로 연결되는 Sophie Taeuber-Arp의 Dada 조형군 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 서로 다른 캐릭터·용기가 선삭 목재와 원통·타원 부품 문법을 공유하는 작가 계열
+
+### S44 · Mobiles, Stabiles & Constellations
+
+- 제작·작가: Alexander Calder
+- 설명: 매달린 모빌, 바닥에 선 스테빌, 나무·철사로 만든 Constellations까지 서로 다른 구조를 하나의 균형 실험으로 이어가는 조각 계열이다.
+- 연결 규칙: 가느다란 철사와 막대, 평평한 유기 형상, 무게중심을 따라 생기는 비어 있는 공간이 매달림과 자립 형태를 함께 묶는다.
+- 변주 축: 매달림·자립 여부, 판의 크기와 수, 분기 방향, 색면과 전체 높이
+- 설명 출처: [Guggenheim — Calder: Gravity and Grace](https://www.guggenheim.org/exhibition/calder-gravity-and-grace)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S44_01.jpg](downloaded-images/S44_01.jpg) | [열기](https://www.guggenheim.org/exhibition/calder-gravity-and-grace) | 매달린 작품과 자립 작품이 철사·판·균형의 문법으로 연결되는 Calder 전시 참고 이미지 |
+| 2 | [이미지 2: S44_02.jpg](downloaded-images/S44_02.jpg) | [열기](https://www.guggenheim.org/exhibition/calder-gravity-and-grace) | 매달린 작품과 자립 작품이 철사·판·균형의 문법으로 연결되는 Calder 전시 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 서로 다른 외곽선과 스케일을 중력·균형·부유하는 빈 공간으로 하나의 계열로 읽히게 하는 사례
+
+### S45 · Empreinte Animale
+
+- 제작·작가: Lalique
+- 설명: 사자·표범·코끼리·새 등 서로 다른 야생동물을 크리스털 조각으로 번역한 Lalique 동물 오브제군이다.
+- 연결 규칙: 투명·반투명 크리스털, 서리 낀 표면, 털·비늘·피부를 새긴 촉각적 텍스처가 종이 달라도 한 컬렉션으로 묶는다.
+- 변주 축: 동물 종과 자세, 높이와 무게, 투명도, 표면 텍스처와 광택
+- 설명 출처: [Lalique — Empreinte Animale](https://us.lalique.com/pages/empreinte-animale-decorative-objects-collection)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S45_01.webp](downloaded-images/S45_01.webp) | [열기](https://us.lalique.com/pages/empreinte-animale-decorative-objects-collection) | 서로 다른 야생동물이 크리스털의 투명도와 표면 텍스처로 연결되는 Lalique 참고 이미지 |
+| 2 | [이미지 2: S45_02.jpg](downloaded-images/S45_02.jpg) | [열기](https://us.lalique.com/pages/empreinte-animale-decorative-objects-collection) | 서로 다른 야생동물이 크리스털의 투명도와 표면 텍스처로 연결되는 Lalique 참고 이미지 |
+| 3 | [이미지 3: S45_03.webp](downloaded-images/S45_03.webp) | [열기](https://us.lalique.com/pages/empreinte-animale-decorative-objects-collection) | 서로 다른 야생동물이 크리스털의 투명도와 표면 텍스처로 연결되는 Lalique 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 종의 차이보다 동일한 재료와 동물 피부를 다루는 표면 처리로 세트감을 만드는 조각군
+
+### S46 · Beasts
+
+- 제작·작가: The Haas Brothers / L'Objet
+- 설명: 털 달린 생물, 금속 다리, 청동·도자 표면을 가진 서로 다른 환상 생물 조각군이다. 작은 오브제부터 가구에 가까운 크기까지 확장된다.
+- 연결 규칙: 둥근 몸체 셸과 과장된 부속 기관, 털·금속·도자 표면의 대비가 생물마다 다른 외곽선을 하나의 종족처럼 묶는다.
+- 변주 축: 생물의 종과 표정, 다리·뿔·꼬리의 수, 크기, 털·청동·포슬린 마감
+- 설명 출처: [L'Objet — Haas Brothers Craftsmanship](https://www.l-objet.com/pages/craftsmanship-haas-brothers)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S46_01.webp](downloaded-images/S46_01.webp) | [열기](https://www.l-objet.com/pages/craftsmanship-haas-brothers) | 다른 생물 실루엣이 몸체 셸과 부속 기관, 털·금속 표면으로 연결되는 Haas Brothers 참고 이미지 |
+| 2 | [이미지 2: S46_02.webp](downloaded-images/S46_02.webp) | [열기](https://www.l-objet.com/pages/craftsmanship-haas-brothers) | 다른 생물 실루엣이 몸체 셸과 부속 기관, 털·금속 표면으로 연결되는 Haas Brothers 참고 이미지 |
+| 3 | [이미지 3: S46_03.jpg](downloaded-images/S46_03.jpg) | [열기](https://www.l-objet.com/pages/craftsmanship-haas-brothers) | 다른 생물 실루엣이 몸체 셸과 부속 기관, 털·금속 표면으로 연결되는 Haas Brothers 참고 이미지 |
+| 4 | [이미지 4: S46_04.webp](downloaded-images/S46_04.webp) | [열기](https://www.l-objet.com/pages/craftsmanship-haas-brothers) | 다른 생물 실루엣이 몸체 셸과 부속 기관, 털·금속 표면으로 연결되는 Haas Brothers 참고 이미지 |
+| 5 | [이미지 5: S46_05.jpg](downloaded-images/S46_05.jpg) | [열기](https://www.l-objet.com/pages/craftsmanship-haas-brothers) | 다른 생물 실루엣이 몸체 셸과 부속 기관, 털·금속 표면으로 연결되는 Haas Brothers 참고 이미지 |
+| 6 | [이미지 6: S46_06.jpg](downloaded-images/S46_06.jpg) | [열기](https://www.l-objet.com/pages/craftsmanship-haas-brothers) | 다른 생물 실루엣이 몸체 셸과 부속 기관, 털·금속 표면으로 연결되는 Haas Brothers 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 개체마다 기능·크기가 달라도 몸체·부속 기관·촉각 표면의 공통 문법을 유지하는 환상 생물군
+
+### S55 · Animal Factory
+
+- 제작·작가: Luca Boscardin / Magis
+- 설명: 악어·고릴라·공룡·기린처럼 외곽이 완전히 다른 네 동물을 하나의 연속 강관 구조로 만든 Magis 오브제군이다.
+- 연결 규칙: 용접된 스틸 튜브가 몸통·다리·목을 한 번에 그리는 선형 골격과 동일한 산업용 도장이 종마다 유지된다.
+- 변주 축: 동물 종, 높이와 길이, 몸통의 비례, 강관 곡률과 색상
+- 설명 출처: [Magis — Animal Factory](https://www.magisdesign.com/zh-hans/product/animal-factory/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S55_01.jpg](downloaded-images/S55_01.jpg) | [열기](https://www.magisdesign.com/zh-hans/product/animal-factory/) | 서로 다른 네 동물이 같은 연속 강관 골격으로 묶이는 Animal Factory 참고 이미지 |
+| 2 | [이미지 2: S55_02.jpg](downloaded-images/S55_02.jpg) | [열기](https://www.magisdesign.com/zh-hans/product/animal-factory/) | 서로 다른 네 동물이 같은 연속 강관 골격으로 묶이는 Animal Factory 참고 이미지 |
+| 3 | [이미지 3: S55_03.jpg](downloaded-images/S55_03.jpg) | [열기](https://www.magisdesign.com/zh-hans/product/animal-factory/) | 서로 다른 네 동물이 같은 연속 강관 골격으로 묶이는 Animal Factory 참고 이미지 |
+| 4 | [이미지 4: S55_04.jpg](downloaded-images/S55_04.jpg) | [열기](https://www.magisdesign.com/zh-hans/product/animal-factory/) | 서로 다른 네 동물이 같은 연속 강관 골격으로 묶이는 Animal Factory 참고 이미지 |
+| 5 | [이미지 5: S55_05.jpg](downloaded-images/S55_05.jpg) | [열기](https://www.magisdesign.com/zh-hans/product/animal-factory/) | 서로 다른 네 동물이 같은 연속 강관 골격으로 묶이는 Animal Factory 참고 이미지 |
+| 6 | [이미지 6: S55_06.jpg](downloaded-images/S55_06.jpg) | [열기](https://www.magisdesign.com/zh-hans/product/animal-factory/) | 서로 다른 네 동물이 같은 연속 강관 골격으로 묶이는 Animal Factory 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 관람객의 조작보다 선형 골격과 산업 마감의 시각적 가족성을 참고하는 동물 오브제군
+
+### S56 · Primates
+
+- 제작·작가: Elena Salmistraro / Bosa
+- 설명: Kandti·Mandrillus·Brazza 세 점의 영장류 얼굴을 세로형 세라믹 용기와 결합한 오브제군이다. 각 얼굴과 갈기는 다르지만 기본 몸체의 계열감이 선명하다.
+- 연결 규칙: 높고 둥근 세라믹 몸체, 과장된 얼굴·갈기, 유약과 귀금속 포인트가 종마다 다른 표정을 한 가족으로 묶는다.
+- 변주 축: 영장류 종과 표정, 갈기·귀·코의 부피, 패턴과 금속 디테일
+- 설명 출처: [Bosa — Primates](https://www.bosatrade.com/collections/collezioni/complementi-d-arredo/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S56_01.png](downloaded-images/S56_01.png) | [열기](https://www.bosatrade.com/prodotto/primates-kandti/) | 서로 다른 영장류 얼굴이 같은 세로형 세라믹 몸체와 장식 언어로 이어지는 Primates 참고 이미지 |
+| 2 | [이미지 2: S56_02.png](downloaded-images/S56_02.png) | [열기](https://www.bosatrade.com/prodotto/primates-kandti/) | 서로 다른 영장류 얼굴이 같은 세로형 세라믹 몸체와 장식 언어로 이어지는 Primates 참고 이미지 |
+| 3 | [이미지 3: S56_03.png](downloaded-images/S56_03.png) | [열기](https://www.bosatrade.com/prodotto/primates-kandti/) | 서로 다른 영장류 얼굴이 같은 세로형 세라믹 몸체와 장식 언어로 이어지는 Primates 참고 이미지 |
+| 4 | [이미지 4: S56_04.jpg](downloaded-images/S56_04.jpg) | [열기](https://www.bosatrade.com/prodotto/primates-kandti/) | 서로 다른 영장류 얼굴이 같은 세로형 세라믹 몸체와 장식 언어로 이어지는 Primates 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 종과 표정은 달라도 용기형 몸체·유약·귀금속 표면을 공유하는 캐릭터 오브제군
+
+### S58 · Momonsters
+
+- 제작·작가: Giovanni Motta / Bosa
+- 설명: 서로 다른 얼굴과 몸통을 가진 감정적인 괴물 캐릭터를 손으로 채색한 세라믹 조형군이다. 표정마다 개체성이 크지만 같은 생물 문법을 공유한다.
+- 연결 규칙: 둥근 세라믹 몸체, 큰 눈과 입, 반복되는 손채색 패턴과 광택이 종·표정이 달라도 한 캐릭터 세계를 만든다.
+- 변주 축: 표정과 감정, 몸통의 높이·폭, 눈·입의 위치, 패턴과 색상
+- 설명 출처: [Bosa — Momonsters](https://www.bosatrade.com/prodotto/momonsters/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S58_01.jpg](downloaded-images/S58_01.jpg) | [열기](https://www.bosatrade.com/prodotto/momonsters/) | 서로 다른 표정과 몸통이 같은 세라믹·손채색 캐릭터 문법으로 이어지는 Momonsters 참고 이미지 |
+| 2 | [이미지 2: S58_02.jpg](downloaded-images/S58_02.jpg) | [열기](https://www.bosatrade.com/prodotto/momonsters/) | 서로 다른 표정과 몸통이 같은 세라믹·손채색 캐릭터 문법으로 이어지는 Momonsters 참고 이미지 |
+| 3 | [이미지 3: S58_03.jpg](downloaded-images/S58_03.jpg) | [열기](https://www.bosatrade.com/prodotto/momonsters/) | 서로 다른 표정과 몸통이 같은 세라믹·손채색 캐릭터 문법으로 이어지는 Momonsters 참고 이미지 |
+| 4 | [이미지 4: S58_04.jpg](downloaded-images/S58_04.jpg) | [열기](https://www.bosatrade.com/prodotto/momonsters/) | 서로 다른 표정과 몸통이 같은 세라믹·손채색 캐릭터 문법으로 이어지는 Momonsters 참고 이미지 |
+| 5 | [이미지 5: S58_05.jpg](downloaded-images/S58_05.jpg) | [열기](https://www.bosatrade.com/prodotto/momonsters/) | 서로 다른 표정과 몸통이 같은 세라믹·손채색 캐릭터 문법으로 이어지는 Momonsters 참고 이미지 |
+| 6 | [이미지 6: S58_06.jpg](downloaded-images/S58_06.jpg) | [열기](https://www.bosatrade.com/prodotto/momonsters/) | 서로 다른 표정과 몸통이 같은 세라믹·손채색 캐릭터 문법으로 이어지는 Momonsters 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 감정과 표정은 개별화하면서도 몸체·눈·입·패턴의 공통 문법으로 군집감을 유지하는 캐릭터군
+
+### S59 · Most Illustrious
+
+- 제작·작가: Elena Salmistraro / Bosa
+- 설명: Castiglioni·Dalisi·De Lucchi·Mendini 등 디자이너의 얼굴과 대표 작업의 단서를 하나의 토템형 세라믹 인물로 번역한 조각군이다.
+- 연결 규칙: 세로로 쌓이는 토템 비례, 과장된 얼굴과 귀·코·안경 같은 특징, 유약과 귀금속의 장식 규칙이 인물마다 이어진다.
+- 변주 축: 인물의 정체성, 대표 작품에서 가져온 특징, 얼굴 비례, 패턴과 색면
+- 설명 출처: [Bosa — Most Illustrious](https://www.bosatrade.com/prodotto/mostillustrious-achille/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S59_01.jpg](downloaded-images/S59_01.jpg) | [열기](https://www.bosatrade.com/collections/collezioni/sculture/) | 서로 다른 디자이너의 얼굴과 작업 단서가 같은 토템형 세라믹 문법으로 묶이는 Most Illustrious 참고 이미지 |
+| 2 | [이미지 2: S59_02.png](downloaded-images/S59_02.png) | [열기](https://www.bosatrade.com/collections/collezioni/sculture/) | 서로 다른 디자이너의 얼굴과 작업 단서가 같은 토템형 세라믹 문법으로 묶이는 Most Illustrious 참고 이미지 |
+| 3 | [이미지 3: S59_03.jpg](downloaded-images/S59_03.jpg) | [열기](https://www.bosatrade.com/collections/collezioni/sculture/) | 서로 다른 디자이너의 얼굴과 작업 단서가 같은 토템형 세라믹 문법으로 묶이는 Most Illustrious 참고 이미지 |
+| 4 | [이미지 4: S59_04.png](downloaded-images/S59_04.png) | [열기](https://www.bosatrade.com/collections/collezioni/sculture/) | 서로 다른 디자이너의 얼굴과 작업 단서가 같은 토템형 세라믹 문법으로 묶이는 Most Illustrious 참고 이미지 |
+| 5 | [이미지 5: S59_05.jpg](downloaded-images/S59_05.jpg) | [열기](https://www.bosatrade.com/collections/collezioni/sculture/) | 서로 다른 디자이너의 얼굴과 작업 단서가 같은 토템형 세라믹 문법으로 묶이는 Most Illustrious 참고 이미지 |
+| 6 | [이미지 6: S59_06.png](downloaded-images/S59_06.png) | [열기](https://www.bosatrade.com/collections/collezioni/sculture/) | 서로 다른 디자이너의 얼굴과 작업 단서가 같은 토템형 세라믹 문법으로 묶이는 Most Illustrious 참고 이미지 |
+| 7 | [이미지 7: S59_07.jpg](downloaded-images/S59_07.jpg) | [열기](https://www.bosatrade.com/collections/collezioni/sculture/) | 서로 다른 디자이너의 얼굴과 작업 단서가 같은 토템형 세라믹 문법으로 묶이는 Most Illustrious 참고 이미지 |
+| 8 | [이미지 8: S59_08.png](downloaded-images/S59_08.png) | [열기](https://www.bosatrade.com/collections/collezioni/sculture/) | 서로 다른 디자이너의 얼굴과 작업 단서가 같은 토템형 세라믹 문법으로 묶이는 Most Illustrious 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 인물별 특징은 달라도 하나의 적층 인물 구조와 장식 시스템을 공유하는 초상 조각군
+
+### S60 · Lilla Zoo
+
+- 제작·작가: Lisa Larson / Gustavsberg
+- 설명: 고양이·여우·말·닥스훈트·들소 등 서로 다른 동물을 단순화한 Lisa Larson의 1955년 Gustavsberg 석기 시리즈다.
+- 연결 규칙: 낮고 둥근 몸통, 최소한의 얼굴선, 부분 유약과 따뜻한 갈색 흙빛이 동물의 자세와 종이 달라도 하나의 동물군으로 보이게 한다.
+- 변주 축: 동물 종과 자세, 몸통 길이·높이, 줄무늬와 눈·코의 선, 유약 범위
+- 설명 출처: [Lisa Larson Shop / Gustavsberg — Lilla Zoo](https://gustavsbergsporslinsfabrik.se/produkt-kategori/formgivare/lisa-larson/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S60_01.jpg](downloaded-images/S60_01.jpg) | [열기](https://lisalarson.myshopify.com/collections/frontpage) | 서로 다른 동물이 둥근 석기 몸체와 절제된 표정으로 이어지는 Lisa Larson Lilla Zoo 참고 이미지 |
+| 2 | [이미지 2: S60_02.jpg](downloaded-images/S60_02.jpg) | [열기](https://lisalarson.myshopify.com/collections/frontpage) | 서로 다른 동물이 둥근 석기 몸체와 절제된 표정으로 이어지는 Lisa Larson Lilla Zoo 참고 이미지 |
+| 3 | [이미지 3: S60_03.jpg](downloaded-images/S60_03.jpg) | [열기](https://lisalarson.myshopify.com/collections/frontpage) | 서로 다른 동물이 둥근 석기 몸체와 절제된 표정으로 이어지는 Lisa Larson Lilla Zoo 참고 이미지 |
+| 4 | [이미지 4: S60_04.jpg](downloaded-images/S60_04.jpg) | [열기](https://lisalarson.myshopify.com/collections/frontpage) | 서로 다른 동물이 둥근 석기 몸체와 절제된 표정으로 이어지는 Lisa Larson Lilla Zoo 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 동물의 종·자세는 달라도 같은 흙빛 재료와 절제된 얼굴선으로 한 작가의 군집을 만드는 도자 조각군
+
 ## 패키지·용기
 
 기존 조사 사례와 이번에 보강한 세트 사례를 같은 범주에서 비교합니다.
@@ -1378,6 +1682,28 @@
 
 - 세트 유형: 디자인 시리즈·세트
 - 관계 유형: 공통 용기·라벨 언어를 다양한 카테고리로 확장한 패키지 시스템
+
+### S47 · Family Follows Fiction
+
+- 제작·작가: Stefano Giovannoni / Alessi
+- 설명: 주방 도구와 생활용품을 작은 인간·동물·생물 캐릭터처럼 만든 Alessi의 장기 프로젝트다. 기능은 달라도 물건의 사용 장면에 서사를 부여한다.
+- 연결 규칙: 주둥이·손·다리·얼굴 같은 의인화된 특징과 사출 플라스틱의 매끈한 단순화가 주전자·오프너·용기를 한 캐릭터 가족으로 만든다.
+- 변주 축: 도구의 기능, 캐릭터의 종과 자세, 크기, 색상과 손잡이·뚜껑 디테일
+- 설명 출처: [Stefano Giovannoni — Plastic Alessi / Family Follows Fiction](https://www.stefanogiovannoni.com/furniture/plastic-alessi)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S47_01.webp](downloaded-images/S47_01.webp) | [열기](https://www.stefanogiovannoni.com/furniture/plastic-alessi) | 서로 다른 생활용품이 작은 인물·동물 실루엣과 플라스틱 표면으로 연결되는 Family Follows Fiction 참고 이미지 |
+| 2 | [이미지 2: S47_02.webp](downloaded-images/S47_02.webp) | [열기](https://www.stefanogiovannoni.com/furniture/plastic-alessi) | 서로 다른 생활용품이 작은 인물·동물 실루엣과 플라스틱 표면으로 연결되는 Family Follows Fiction 참고 이미지 |
+| 3 | [이미지 3: S47_03.webp](downloaded-images/S47_03.webp) | [열기](https://www.stefanogiovannoni.com/furniture/plastic-alessi) | 서로 다른 생활용품이 작은 인물·동물 실루엣과 플라스틱 표면으로 연결되는 Family Follows Fiction 참고 이미지 |
+| 4 | [이미지 4: S47_04.webp](downloaded-images/S47_04.webp) | [열기](https://www.stefanogiovannoni.com/furniture/plastic-alessi) | 서로 다른 생활용품이 작은 인물·동물 실루엣과 플라스틱 표면으로 연결되는 Family Follows Fiction 참고 이미지 |
+| 5 | [이미지 5: S47_05.webp](downloaded-images/S47_05.webp) | [열기](https://www.stefanogiovannoni.com/furniture/plastic-alessi) | 서로 다른 생활용품이 작은 인물·동물 실루엣과 플라스틱 표면으로 연결되는 Family Follows Fiction 참고 이미지 |
+| 6 | [이미지 6: S47_06.webp](downloaded-images/S47_06.webp) | [열기](https://www.stefanogiovannoni.com/furniture/plastic-alessi) | 서로 다른 생활용품이 작은 인물·동물 실루엣과 플라스틱 표면으로 연결되는 Family Follows Fiction 참고 이미지 |
+| 7 | [이미지 7: S47_07.webp](downloaded-images/S47_07.webp) | [열기](https://www.stefanogiovannoni.com/furniture/plastic-alessi) | 서로 다른 생활용품이 작은 인물·동물 실루엣과 플라스틱 표면으로 연결되는 Family Follows Fiction 참고 이미지 |
+| 8 | [이미지 8: S47_08.webp](downloaded-images/S47_08.webp) | [열기](https://www.stefanogiovannoni.com/furniture/plastic-alessi) | 서로 다른 생활용품이 작은 인물·동물 실루엣과 플라스틱 표면으로 연결되는 Family Follows Fiction 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 서로 다른 기능의 제품을 공통된 캐릭터 언어로 묶는 서사형 제품군
 
 ## 가구·조명·제품
 
@@ -1929,6 +2255,111 @@
 - 세트 유형: 디자인 시리즈·세트
 - 관계 유형: 축척과 재현 정밀도를 고정해 가구 유형을 확장한 컬렉션
 
+### S38 · Le Bambole
+
+- 제작·작가: Mario Bellini / B&B Italia
+- 설명: 암체어 Bambola, 2인 소파 Bibambola, 소파 Granbambola, 침대 Bamboletto로 이어지는 부드러운 가구군이다. 같은 몸체 개념이 기능과 크기에 따라 다른 오브젝트로 번역된다.
+- 연결 규칙: 프레임이 드러나지 않는 탄력적인 봉제 셸과 둥근 볼륨, 몸을 감싸는 가장자리 디테일이 의자·소파·침대 전체를 연결한다.
+- 변주 축: 착석 인원, 길이와 높이, 등받이·팔걸이의 비례, 패브릭과 가죽 커버
+- 설명 출처: [B&B Italia — Le Bambole](https://shop.bebitalia.com/en/us/shop-products/product-overview/le-bambole/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S38_01.jpg](downloaded-images/S38_01.jpg) | [열기](https://www.flosbebitaliagroup.com/LeBambole-BeBItalia.html) | Le Bambole의 암체어·소파·침대가 하나의 부드러운 몸체 언어로 보이는 공식 그룹 이미지 |
+| 2 | [이미지 2: S38_02.jpg](downloaded-images/S38_02.jpg) | [열기](https://www.flosbebitaliagroup.com/LeBambole-BeBItalia.html) | Le Bambole의 암체어·소파·침대가 하나의 부드러운 몸체 언어로 보이는 공식 그룹 이미지 |
+| 3 | [이미지 3: S38_03.jpg](downloaded-images/S38_03.jpg) | [열기](https://www.flosbebitaliagroup.com/LeBambole-BeBItalia.html) | Le Bambole의 암체어·소파·침대가 하나의 부드러운 몸체 언어로 보이는 공식 그룹 이미지 |
+| 4 | [이미지 4: S38_04.jpg](downloaded-images/S38_04.jpg) | [열기](https://www.flosbebitaliagroup.com/LeBambole-BeBItalia.html) | Le Bambole의 암체어·소파·침대가 하나의 부드러운 몸체 언어로 보이는 공식 그룹 이미지 |
+| 5 | [이미지 5: S38_05.jpg](downloaded-images/S38_05.jpg) | [열기](https://www.flosbebitaliagroup.com/LeBambole-BeBItalia.html) | Le Bambole의 암체어·소파·침대가 하나의 부드러운 몸체 언어로 보이는 공식 그룹 이미지 |
+| 6 | [이미지 6: S38_06.jpg](downloaded-images/S38_06.jpg) | [열기](https://www.flosbebitaliagroup.com/LeBambole-BeBItalia.html) | Le Bambole의 암체어·소파·침대가 하나의 부드러운 몸체 언어로 보이는 공식 그룹 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 서로 다른 가구 기능이 하나의 말랑한 몸체와 봉제 문법을 공유하는 제품군
+
+### S51 · Officina
+
+- 제작·작가: Ronan & Erwan Bouroullec / Magis
+- 설명: 의자·스툴·벤치·소파·테이블과 액세서리를 단조 철제 구조로 이어가는 Magis 가구군이다. 기능마다 외곽은 달라도 망치 자국이 공통 표면이 된다.
+- 연결 규칙: 철제 봉을 구부리고 두드려 만든 불규칙한 망치 자국과 같은 선형 프레임이 가구마다 드러난다.
+- 변주 축: 착석·테이블 기능, 높이와 폭, 등받이·쿠션 유무, 철제와 패브릭 조합
+- 설명 출처: [Magis — Officina](https://www.magisdesign.com/new-products-new-colours/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S51_01.webp](downloaded-images/S51_01.webp) | [열기](https://www.magisdesign.com/new-products-new-colours/) | 서로 다른 가구가 단조 철제 선과 망치 자국을 공통 표면으로 공유하는 Officina 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 완성된 형태보다 같은 제작 흔적을 노출해 의자·테이블·소파를 한 작업장 가족으로 보이게 하는 사례
+
+### S52 · Braun Design Classics
+
+- 제작·작가: Dieter Rams & Braun Design Team / Braun
+- 설명: 라디오·면도기·주서기·계산기 등 기능이 전혀 다른 Braun 제품을 하나의 시각 체계로 묶은 산업디자인 계열이다.
+- 연결 규칙: 질서 있는 직사각형 하우징, 흰색·회색 바탕, 얇은 검정 컨트롤과 규칙적인 구멍 패턴이 기능을 넘어 제품군의 가족성을 만든다.
+- 변주 축: 기능과 크기, 버튼·다이얼·그릴의 위치, 손에 잡는 형상, 시대별 재료
+- 설명 출처: [Braun — Design and Innovation](https://secure-us.braun.com/en-us/design/design-and-innovation)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S52_01.webp](downloaded-images/S52_01.webp) | [열기](https://secure-us.braun.com/en-us/design/design-and-innovation) | 라디오·면도기·주서기·계산기가 같은 질서와 하우징 언어를 공유하는 Braun 디자인 참고 이미지 |
+| 2 | [이미지 2: S52_02.jpg](downloaded-images/S52_02.jpg) | [열기](https://secure-us.braun.com/en-us/design/design-and-innovation) | 라디오·면도기·주서기·계산기가 같은 질서와 하우징 언어를 공유하는 Braun 디자인 참고 이미지 |
+| 3 | [이미지 3: S52_03.webp](downloaded-images/S52_03.webp) | [열기](https://secure-us.braun.com/en-us/design/design-and-innovation) | 라디오·면도기·주서기·계산기가 같은 질서와 하우징 언어를 공유하는 Braun 디자인 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 기능이 다른 제품도 비례·컨트롤·표면 질서를 반복하면 하나의 브랜드 오브젝트군으로 읽힌다는 사례
+
+### S53 · PH Family
+
+- 제작·작가: Poul Henningsen / Louis Poulsen
+- 설명: 테이블·플로어·벽·펜던트 조명을 여러 높이와 지지 구조로 전개하면서, 빛을 감싸는 다중 셰이드 원리를 유지하는 PH 조명군이다.
+- 연결 규칙: 동심에 가까운 층층의 셰이드, 광원을 가리는 곡률, 얇은 스템과 안정된 베이스가 형식과 빛의 품질을 동시에 연결한다.
+- 변주 축: 설치 방식, 높이와 지름, 셰이드 수, 스템·베이스 재료와 색상
+- 설명 출처: [Louis Poulsen — PH Collection](https://www.louispoulsen.com/en/private/shop-by/collection)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S53_01.jpg](downloaded-images/S53_01.jpg) | [열기](https://www.louispoulsen.com/en-us/guides-inspiration/ph-number-history) | 테이블·플로어·펜던트가 공통 다중 셰이드 원리로 묶이는 PH Family 참고 이미지 |
+| 2 | [이미지 2: S53_02.webp](downloaded-images/S53_02.webp) | [열기](https://www.louispoulsen.com/en-us/guides-inspiration/ph-number-history) | 테이블·플로어·펜던트가 공통 다중 셰이드 원리로 묶이는 PH Family 참고 이미지 |
+| 3 | [이미지 3: S53_03.jpg](downloaded-images/S53_03.jpg) | [열기](https://www.louispoulsen.com/en-us/guides-inspiration/ph-number-history) | 테이블·플로어·펜던트가 공통 다중 셰이드 원리로 묶이는 PH Family 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 서로 다른 설치 방식이 동일한 셰이드 단면과 빛의 처리 원리를 공유하는 조명 가족
+
+### S54 · Sending Animals
+
+- 제작·작가: Seletti
+- 설명: 소·돼지·거위 같은 동물 실루엣을 사이드보드·콘솔·조명과 결합한 가구군이다. 기능이 달라도 포장 상자에서 온 듯한 제작 흔적이 공통으로 남는다.
+- 연결 규칙: 재활용 목재 상자 구조, 스텐실 운송 마크, 단순한 동물 옆면 실루엣과 노출된 결합부가 제품 전체를 연결한다.
+- 변주 축: 동물 종, 수납·테이블·조명 기능, 길이와 높이, 목재 표면과 그래픽 마크
+- 설명 출처: [Seletti — Sending Cow](https://www.seletti.it/products/sending-cow)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S54_01.jpg](downloaded-images/S54_01.jpg) | [열기](https://www.seletti.it/products/sending-cow) | 소·돼지·거위가 상자 목공과 운송 마크를 공유하는 Sending Animals 참고 이미지 |
+| 2 | [이미지 2: S54_02.webp](downloaded-images/S54_02.webp) | [열기](https://www.seletti.it/products/sending-cow) | 소·돼지·거위가 상자 목공과 운송 마크를 공유하는 Sending Animals 참고 이미지 |
+| 3 | [이미지 3: S54_03.webp](downloaded-images/S54_03.webp) | [열기](https://www.seletti.it/products/sending-cow) | 소·돼지·거위가 상자 목공과 운송 마크를 공유하는 Sending Animals 참고 이미지 |
+| 4 | [이미지 4: S54_04.webp](downloaded-images/S54_04.webp) | [열기](https://www.seletti.it/products/sending-cow) | 소·돼지·거위가 상자 목공과 운송 마크를 공유하는 Sending Animals 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 서로 다른 가구 기능을 동일한 포장 목공 공정과 동물 실루엣으로 묶는 강한 이종 세트
+
+### S61 · Serge Mouille Lighting
+
+- 제작·작가: Serge Mouille / Editions Serge Mouille
+- 설명: 싱글 암 벽등·테이블등·플로어등·펜던트와 다중 암 조명을 하나의 검은 금속 조형 언어로 이어가는 조명 계열이다.
+- 연결 규칙: 가느다란 관절형 암, 황동 회전 조인트, 바깥은 검고 안은 밝은 원추형 셰이드가 설치 방식과 암 수가 달라도 같은 가족으로 묶는다.
+- 변주 축: 암의 수와 방향, 벽·바닥·천장 설치, 셰이드 크기, 베이스와 관절 구성
+- 설명 출처: [Editions Serge Mouille — La Collection](https://www.serge-mouille.com/)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S61_01.webp](downloaded-images/S61_01.webp) | [열기](https://www.sergemouille.com/la-collection) | 서로 다른 설치 방식과 암 구성이 검은 금속 암·원추형 셰이드로 연결되는 Serge Mouille 조명 참고 이미지 |
+| 2 | [이미지 2: S61_02.jpg](downloaded-images/S61_02.jpg) | [열기](https://www.sergemouille.com/la-collection) | 서로 다른 설치 방식과 암 구성이 검은 금속 암·원추형 셰이드로 연결되는 Serge Mouille 조명 참고 이미지 |
+| 3 | [이미지 3: S61_03.jpg](downloaded-images/S61_03.jpg) | [열기](https://www.sergemouille.com/la-collection) | 서로 다른 설치 방식과 암 구성이 검은 금속 암·원추형 셰이드로 연결되는 Serge Mouille 조명 참고 이미지 |
+| 4 | [이미지 4: S61_04.webp](downloaded-images/S61_04.webp) | [열기](https://www.sergemouille.com/la-collection) | 서로 다른 설치 방식과 암 구성이 검은 금속 암·원추형 셰이드로 연결되는 Serge Mouille 조명 참고 이미지 |
+
+- 세트 유형: 디자인 시리즈·세트
+- 관계 유형: 테이블·벽·바닥·천장 조명이 동일한 관절·셰이드·금속 공정으로 한 조형군을 이루는 사례
+
 ## 식품·조형 실험
 
 기존 조사 사례와 이번에 보강한 세트 사례를 같은 범주에서 비교합니다.
@@ -2224,6 +2655,23 @@
 
 - 세트 유형: 디자인 시리즈·세트
 - 관계 유형: 서로 다른 기호를 동일한 평면·채색 규칙으로 묶은 장식 오브제군
+
+### S43 · Bichos
+
+- 제작·작가: Lygia Clark
+- 설명: 삼각형과 다각형 금속판을 접고 경첩으로 연결해 만든 서로 다른 기하학적 조각군이다. 각각의 접힘과 열린 면이 달라도 한 생물군처럼 읽힌다.
+- 연결 규칙: 같은 판재·경첩·다각형 면 분할이 개체마다 다른 각도와 실루엣을 묶어 준다.
+- 변주 축: 판의 수, 접힘 각도, 열린 틈, 수평·수직 방향과 외곽선
+- 설명 출처: [Projeto Lygia Clark — Bichos](https://portal.lygiaclark.org.br/acervo/1790/brazil-new-images)
+
+| 번호 | 로컬 이미지 | 이미지 원출처 | 캡션 |
+|---:|---|---|---|
+| 1 | [이미지 1: S43_01.jpg](downloaded-images/S43_01.jpg) | [열기](https://portal.lygiaclark.org.br/acervo/1790/brazil-new-images) | 서로 다른 접힘과 틈을 가진 Bichos가 같은 금속 다각형 문법으로 이어지는 참고 이미지 |
+| 2 | [이미지 2: S43_02.jpg](downloaded-images/S43_02.jpg) | [열기](https://portal.lygiaclark.org.br/acervo/1790/brazil-new-images) | 서로 다른 접힘과 틈을 가진 Bichos가 같은 금속 다각형 문법으로 이어지는 참고 이미지 |
+| 3 | [이미지 3: S43_03.jpg](downloaded-images/S43_03.jpg) | [열기](https://portal.lygiaclark.org.br/acervo/1790/brazil-new-images) | 서로 다른 접힘과 틈을 가진 Bichos가 같은 금속 다각형 문법으로 이어지는 참고 이미지 |
+
+- 세트 유형: 작품 계열·설치
+- 관계 유형: 조작성을 전제로 한 작품이지만 전시에서는 관람객의 터치보다 판·경첩·틈의 시각적 관계만 참고
 
 ## 분류 범주
 
