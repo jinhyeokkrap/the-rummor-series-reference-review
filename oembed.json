@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "provider_name": "Series Reference Review",
+  "provider_url": "https://jinhyeokkrap.github.io/the-rummor-series-reference-review/",
+  "title": "시리즈감 레퍼런스 이미지 리뷰",
+  "author_name": "The Rummor 전시",
+  "author_url": "https://jinhyeokkrap.github.io/the-rummor-series-reference-review/",
+  "width": 1600,
+  "height": 1000,
+  "html": "<iframe src=\"https://jinhyeokkrap.github.io/the-rummor-series-reference-review/\" width=\"1600\" height=\"1000\" frameborder=\"0\" allow=\"fullscreen\" title=\"시리즈감 레퍼런스 이미지 리뷰\"></iframe>"
+}
