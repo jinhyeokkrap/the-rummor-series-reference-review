@@ -1,0 +1,1078 @@
+{
+  "title": "세트성 보강 레퍼런스",
+  "date": "2026-09-07",
+  "records": [
+    {
+      "id": "S01",
+      "name": "Cork Family",
+      "creator": "Jasper Morrison / Vitra",
+      "category": "가구·조명·제품",
+      "description": "A–E 다섯 모델이 같은 코르크 재료와 선반·스툴의 역할을 공유하면서 높이와 실루엣을 바꾸는 가족군이다.",
+      "cohesion": "순수 코르크를 선반으로 선삭하고 벨벳 같은 표면을 남기는 공정이 모델 전체를 연결한다.",
+      "variation": "높이, 상·하부 곡률, 덩어리 비례",
+      "palette": "무채색에 가까운 자연 코르크",
+      "mechanisms": [
+        "재료 통일",
+        "선삭 가공",
+        "기능 변주"
+      ],
+      "source_title": "Vitra — Cork Family",
+      "source_url": "https://www.vitra.com/en-lp/product/cork-family",
+      "image_source_url": "https://www.vitra.com/en-lp/product/cork-family",
+      "image_caption": "Cork Family A–E를 함께 보여주는 Vitra 공식 제품군 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 재료와 제작 공정으로 묶인 제품군",
+      "routes": [
+        "material",
+        "geometry"
+      ],
+      "image_urls": [
+        "https://static.vitra.com/media/asset/3208805/storage/v_fullbleed_1440x/45565076.jpg"
+      ]
+    },
+    {
+      "id": "S02",
+      "name": "Puppy",
+      "creator": "Eero Aarnio / Magis",
+      "category": "캐릭터·조각·완구",
+      "description": "추상적인 강아지 실루엣을 XS·S·M·L 크기와 여러 색으로 반복하는 Magis Me Too 제품군이다.",
+      "cohesion": "네 발과 둥근 몸통이라는 한 문법을 유지하면서 크기·색·사용 장소를 바꾼다.",
+      "variation": "스케일, 색상, 실내·실외용 마감",
+      "palette": "화이트·오렌지·그린·멜란지 등",
+      "mechanisms": [
+        "공통 실루엣",
+        "스케일 변주",
+        "색상 변주"
+      ],
+      "source_title": "Magis — Puppy",
+      "source_url": "https://www.magisdesign.com/product/puppy/",
+      "image_source_url": "https://www.magisdesign.com/product/puppy/",
+      "image_caption": "Puppy의 여러 크기와 색을 함께 보여주는 Magis 공식 사진",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "동일 캐릭터 문법을 스케일과 색으로 확장한 제품군",
+      "routes": [
+        "character",
+        "geometry"
+      ],
+      "image_urls": [
+        "https://www.magisdesign.com/wp-content/uploads/2015/03/Magis_kids_puppy_product_group_MT52_MT56_orange_01-540x540.jpg",
+        "https://www.magisdesign.com/wp-content/uploads/2015/03/Magis_puppy_L_ambient_MT54_orange_puppy_M_MT52_orange_puppy_S_MT50_orange_01_gallery-903x540.jpg"
+      ]
+    },
+    {
+      "id": "S03",
+      "name": "The Dots Coat Hook Family",
+      "creator": "Lars Tornøe / Muuto",
+      "category": "가구·조명·제품",
+      "description": "원형 후크 하나를 목재·금속·세라믹과 여러 직경으로 확장해 벽면에 자유롭게 조합하는 가족군이다.",
+      "cohesion": "돌출된 원반과 중앙 축이라는 조형 규칙이 재료와 색이 달라도 유지된다.",
+      "variation": "직경, 재료, 벽면 배열, 색상 조합",
+      "palette": "목재의 결, 금속의 단색, 세라믹의 유약색",
+      "mechanisms": [
+        "공통 단위",
+        "재료 변주",
+        "배열 규칙"
+      ],
+      "source_title": "Muuto — The Dots Coat Hook Family",
+      "source_url": "https://professionals.muuto.com/products/shop-by-family/dots/",
+      "image_source_url": "https://professionals.muuto.com/products/shop-by-family/dots/",
+      "image_caption": "목재·금속·세라믹 Dots를 한 벽면에 조합한 Muuto 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "동일 부품을 재료·크기·배열로 확장한 시스템",
+      "routes": [
+        "geometry",
+        "material",
+        "arrangement"
+      ],
+      "image_urls": [
+        "https://professionals.muuto.com/cdn-cgi/image/width=4000,quality=85,format=auto/globalassets/content-media/images/products/shop-by-family/dots/dots-wood-sage-green-burnt-orange-concept-wide-muuto-med-res.jpg",
+        "https://professionals.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/products/shop-by-family/dots/dots-wood-light-blue-burgundy-burnt-orange-dots-metal-light-green-low-res.jpg"
+      ]
+    },
+    {
+      "id": "S04",
+      "name": "Componibili",
+      "creator": "Anna Castelli Ferrieri / Kartell",
+      "category": "가구·조명·제품",
+      "description": "둥근 모듈을 수직으로 쌓아 수납 단위를 만드는 1969년 이후의 시스템으로, Classic·Big·Metal·Bio 등 여러 파생군을 가진다.",
+      "cohesion": "원통형 몸체와 슬라이딩 도어, 반복 가능한 높이가 재료와 색이 달라져도 한 시스템으로 읽히게 한다.",
+      "variation": "모듈 수, 높이, 재료, 색상, 도어 디테일",
+      "palette": "화이트·블랙·컬러 플라스틱·메탈릭",
+      "mechanisms": [
+        "모듈 반복",
+        "수직 적층",
+        "재료 변주"
+      ],
+      "source_title": "Kartell — Componibili Collection",
+      "source_url": "https://www.kartell.com/us/en/ktus/shop/dept/componibili/c_0901",
+      "image_source_url": "https://www.kartell.com/us/en/ktus/shop/dept/componibili/c_0901",
+      "image_caption": "Componibili의 다양한 높이·색·재료를 소개하는 Kartell 공식 컬렉션 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "반복 가능한 모듈로 기능과 외관을 확장한 시스템",
+      "routes": [
+        "geometry",
+        "color",
+        "arrangement"
+      ],
+      "image_urls": [
+        "https://dcsa5iint3rp2.cloudfront.net/Media/KARTELL/KARTELL/Images/Global/LP/componibili/102025_componibili-main3-mob.jpg",
+        "https://d3trhmpc56lg1h.cloudfront.net/Media/KARTELL/KARTELL/Images/Global/LP/componibili/102025_plp-banner-compoNEWCOLORS.jpg"
+      ]
+    },
+    {
+      "id": "S05",
+      "name": "Stool 60 / E60 Family",
+      "creator": "Alvar Aalto / Artek",
+      "category": "가구·조명·제품",
+      "description": "같은 L-leg와 원형 또는 사각 좌판을 바탕으로 Stool 60·E60와 패턴·마감 변형을 이어가는 Artek 스툴 가족이다.",
+      "cohesion": "90도 굽힌 자작나무 L-leg와 단순한 상판이 제품군 전체의 공통 골격이 된다.",
+      "variation": "다리 수, 좌판 형상, 패턴, 도장·목재 마감",
+      "palette": "자연 목재, 유색 래커, 그래픽 패턴",
+      "mechanisms": [
+        "공통 부품",
+        "목재 굽힘",
+        "마감 변주"
+      ],
+      "source_title": "Artek — Stools Collection",
+      "source_url": "https://shop.artek.fi/collections/stools",
+      "image_source_url": "https://shop.artek.fi/collections/stools",
+      "image_caption": "Stool 60·E60와 패턴·마감 변형을 한 제품군으로 보여주는 Artek 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "표준화된 목재 부품을 색·패턴·형태로 변주한 제품군",
+      "routes": [
+        "geometry",
+        "material",
+        "technique"
+      ],
+      "image_urls": [
+        "https://shop.artek.fi/cdn/shop/files/artek-stool-60-wild-birch-legs-natural-lacquered-birch-veneer-top_1440x@2x.progressive.jpg?v=1777539198",
+        "https://shop.artek.fi/cdn/shop/files/Stool-60-Kivet-cut-out_web_1440x@2x.progressive.jpg?v=1756385933",
+        "https://shop.artek.fi/cdn/shop/files/Stool-60-Seireeni-cut-out_web_1440x@2x.progressive.jpg?v=1756385936",
+        "https://shop.artek.fi/cdn/shop/files/artek-stool-e60-wild-birch-natural-lacquered-legs-birch-veneer-top_1440x@2x.progressive.jpg?v=1777897904"
+      ]
+    },
+    {
+      "id": "S06",
+      "name": "USM Haller System",
+      "creator": "Fritz Haller & Paul Schärer / USM",
+      "category": "가구·조명·제품",
+      "description": "구형 커넥터와 금속 패널을 기본 단위로 삼아 수납장·선반·작업 가구를 계속 조합하는 건축적 시스템이다.",
+      "cohesion": "같은 구형 연결부, 튜브 격자, 판넬 규격이 서로 다른 규모의 구성물을 하나의 문법으로 묶는다.",
+      "variation": "칸 수, 방향, 높이, 문·서랍·조명 액세서리, 14색",
+      "palette": "순백·회색·검정부터 원색까지의 분체도장 색상",
+      "mechanisms": [
+        "격자 반복",
+        "구형 접합",
+        "모듈 조합"
+      ],
+      "source_title": "USM — Haller System",
+      "source_url": "https://us.usm.com/pages/usm-haller-system",
+      "image_source_url": "https://us.usm.com/pages/usm-haller-system",
+      "image_caption": "USM Haller의 반복 가능한 격자와 구성 예를 보여주는 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "연결부와 규격을 고정해 무한히 조합하는 시스템",
+      "routes": [
+        "geometry",
+        "arrangement",
+        "color"
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0512/2025/0810/t/4/assets/System_Haller_1960x89316251412692922.jpg?v=1625141271",
+        "https://cdn.shopify.com/s/files/1/0512/2025/0810/t/4/assets/usm_home_living_room_inspiration_gallery_05162445667435016.jpg?v=1624456676"
+      ]
+    },
+    {
+      "id": "S07",
+      "name": "Wooden Animals",
+      "creator": "Kay Bojesen / Rosendahl Design Group",
+      "category": "캐릭터·조각·완구",
+      "description": "원숭이·새·곰 등 서로 다른 동물을 둥근 선과 관절 구조, 목재 조형 언어로 이어가는 장기 제품군이다.",
+      "cohesion": "과장하지 않은 둥근 몸체와 미소 짓는 선, FSC 목재와 손에 잡히는 관절이 종을 넘어 가족감을 만든다.",
+      "variation": "동물 종, 크기, 목재와 도장 색, 관절 자세",
+      "palette": "티크·오크·도장 컬러와 자연 목재 대비",
+      "mechanisms": [
+        "목재 선삭",
+        "공통 얼굴 문법",
+        "관절 반복"
+      ],
+      "source_title": "Rosendahl — Kay Bojesen Wooden Animals",
+      "source_url": "https://www.rosendahl.com/en/intl/kay-bojesen/products/wooden-animals",
+      "image_source_url": "https://www.rosendahl.com/en/intl/kay-bojesen/products/wooden-animals",
+      "image_caption": "여러 목조 동물과 제품군을 함께 보여주는 Rosendahl 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 목조 캐릭터 문법으로 종과 색을 확장한 제품군",
+      "routes": [
+        "character",
+        "material",
+        "geometry"
+      ],
+      "image_urls": [
+        "https://imagebank.rosendahl.com/cdn/2SP8sG/kb-brandphoto-39250-39260-39443-39465-39421-39427-39490-39206-nursery-w-products.webp?d=22400",
+        "https://imagebank.rosendahl.com/cdn/5ReyOgFgILyC/Kay-Bojesen-Story-Birds-Story-Bird-Blue-39824-5ReyOgFgILyC.webp?d=22398"
+      ]
+    },
+    {
+      "id": "S08",
+      "name": "La Boule / La petite Boule",
+      "creator": "Villeroy & Boch",
+      "category": "도자·유리·공예",
+      "description": "식기 여러 점을 구형으로 포개 보관하는 La Boule과 축소형 La petite Boule의 제품군이다. 하나의 오브제처럼 보이는 적층 상태와, 펼쳤을 때 드러나는 개별 식기의 역할이 함께 설계됐다.",
+      "cohesion": "공통 구면과 반복되는 접시·볼의 곡률이 색상과 에디션이 달라도 한 가족으로 묶는다.",
+      "variation": "구의 크기, 에디션별 그래픽·색, 식기 수와 용도",
+      "palette": "Kyoto·Miami·Black·White·Beige 등 에디션별 대비",
+      "mechanisms": [
+        "구형 적층",
+        "도자 성형",
+        "용도 변주"
+      ],
+      "source_title": "Villeroy & Boch — La Boule",
+      "source_url": "https://www.villeroy-boch.eu/b/la-boule/",
+      "image_source_url": "https://www.villeroy-boch.eu/b/la-boule/",
+      "image_caption": "La Boule과 La petite Boule의 여러 에디션과 적층 상태를 보여주는 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "개별 식기와 하나의 구형 오브제를 오가는 적층형 세트",
+      "routes": [
+        "geometry",
+        "material",
+        "arrangement"
+      ],
+      "image_urls": [
+        "https://cdn.villeroyb-prod.magnolia-platform.io/.imaging/focalpoint/ultrawide/2000x/dam/jcr:96e8c387-b62f-4262-8fcd-d5a31489808e/la-boule-all-collection.jpg",
+        "https://cdn.villeroyb-prod.magnolia-platform.io/.imaging/focalpoint/266x199/dam/jcr:578ae27f-4e38-463c-ac9a-59f19f91dfd2/la-boule-kyoto-with-afina-glasses.jpg",
+        "https://cdn.villeroyb-prod.magnolia-platform.io/.imaging/focalpoint/266x199/dam/jcr:855fed66-3d51-465f-a5f7-b5ec1e5ca995/la-boule-la-petite-boule-miami-with-manufacture-collier-blanc-vase.jpg",
+        "https://cdn.villeroyb-prod.magnolia-platform.io/.imaging/focalpoint/266x199/dam/jcr:af725067-9132-4389-a851-a339c8e15d57/la-boule-black-and-white-and-la-petite-boule-black-and-white-on-a-black-table.jpg"
+      ]
+    },
+    {
+      "id": "S09",
+      "name": "Colonna Re-Edition",
+      "creator": "Giovanni Gariboldi / Ginori 1735",
+      "category": "도자·유리·공예",
+      "description": "1950년대 디자인 아이콘을 다시 만든 Ginori 1735의 포슬린 테이블웨어군이다. 테이블 서비스, 티 세트, 커피 세트가 같은 비례와 적층 논리로 확장된다.",
+      "cohesion": "대칭적인 원형 부품과 뚜껑이 있는 용기가 공통되며, 사용하지 않을 때 깔끔하게 포개진다.",
+      "variation": "식기 역할, 세트 규모, 블루 장식과 높이",
+      "palette": "백색 포슬린과 코발트 블루 장식의 제한된 대비",
+      "mechanisms": [
+        "포슬린 성형",
+        "적층·수납",
+        "세트 모듈화"
+      ],
+      "source_title": "Ginori 1735 — Colonna Re-Edition",
+      "source_url": "https://www.ginori1735.com/ap/en/collections/colonna-re-edition",
+      "image_source_url": "https://www.ginori1735.com/ap/en/collections/colonna-re-edition",
+      "image_caption": "Colonna Re-Edition의 테이블·티·커피 세트를 보여주는 Ginori 1735 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "동일한 포슬린 비례와 적층 규칙으로 확장한 식기군",
+      "routes": [
+        "geometry",
+        "material",
+        "technique"
+      ],
+      "image_urls": [
+        "https://media.ginori1735.com/image/upload/s--B4BT0HoM--/f_auto/q_auto/dpr_auto/c_fit,w_1920/v1/www/public/2024-02/HEADER%20DESKTOP.jpg?_a=BAAAV6E0&itok=3ZxbqB1v",
+        "https://media.ginori1735.com/image/upload/s--dlx_jaCH--/f_auto/q_auto/dpr_auto/c_fit,w_1920/v1/www/public/2024-02/SET%20THE_0.jpg?_a=BAAAV6E0&itok=r0EM0fed",
+        "https://media.ginori1735.com/image/upload/s--g-Uen2d6--/f_auto/q_auto/dpr_auto/c_fit,w_1920/v1/www/public/2024-02/SET%20TAVOLA_0.jpg?_a=BAAAV6E0&itok=qKJiuulf",
+        "https://media.ginori1735.com/image/upload/s--vJc8hjjk--/f_auto/q_auto/dpr_auto/c_fit,w_1920/v1/www/public/2024-02/COLONNA%202_0.jpg?_a=BAAAV6E0&itok=1l_gdmXv"
+      ]
+    },
+    {
+      "id": "S10",
+      "name": "Oogi Family",
+      "creator": "MOLUK",
+      "category": "캐릭터·조각·완구",
+      "description": "두 개의 큰 Oogi와 두 개의 Junior가 한 패키지에 들어가는 MOLUK의 촉각 캐릭터 가족이다. 머리·손·발의 흡착컵으로 서로와 매끈한 표면에 붙고, 늘어나고 비틀리며 자세를 만든다.",
+      "cohesion": "끊김 없는 실리콘 몸체, 흡착컵 관절, 단순한 얼굴이 크기와 포즈가 달라도 동일한 캐릭터 문법을 만든다.",
+      "variation": "본체와 Junior의 크기, 색, 접착 포즈와 놀이 상황",
+      "palette": "레드·블루 중심의 원색 실리콘",
+      "mechanisms": [
+        "실리콘 성형",
+        "흡착 결합",
+        "스케일 변주"
+      ],
+      "source_title": "MOLUK — Oogi Family",
+      "source_url": "https://www.moluk.com/products/oogi-family-suction-cup-figures",
+      "image_source_url": "https://www.moluk.com/products/oogi-family-suction-cup-figures",
+      "image_caption": "Oogi와 Oogi Junior가 서로 붙고 자세를 바꾸는 MOLUK 공식 사진",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 실리콘 구조와 흡착 기능으로 크기·자세를 확장한 캐릭터군",
+      "routes": [
+        "character",
+        "material",
+        "feature"
+      ],
+      "image_urls": [
+        "https://www.moluk.com/cdn/shop/files/oogi-family-suction-cup-figures.jpg?v=1757968837&width=800",
+        "https://www.moluk.com/cdn/shop/files/oogi-family-suction-cup-figure-bath-toy.jpg?v=1764782976&width=800",
+        "https://www.moluk.com/cdn/shop/files/oogi-junior-blue-suction-cup-figure-pose-1.jpg?v=1754428523&width=600",
+        "https://www.moluk.com/cdn/shop/files/oogi-junior-red-blue-suction-cup-figure-hug.jpg?v=1764782976&width=600"
+      ]
+    },
+    {
+      "id": "S11",
+      "name": "Rabbit Collection",
+      "creator": "Stefano Giovannoni / Qeeboo",
+      "category": "캐릭터·조각·완구",
+      "description": "토끼 실루엣을 의자·어린이 의자·조명·도어스톱 등으로 확장한 Qeeboo의 제품 가족이다. 귀가 등받이가 되는 이중 읽기가 성인용과 어린이용을 연결한다.",
+      "cohesion": "긴 귀와 둥근 몸통의 동일한 아이콘 실루엣이 기능과 크기가 달라도 가족성을 유지한다.",
+      "variation": "성인·아동 스케일, 의자·램프·소품 기능, 표면 마감",
+      "palette": "핑크·라이트 블루·화이트 등 다채로운 단색",
+      "mechanisms": [
+        "회전 성형 플라스틱",
+        "아이콘 실루엣",
+        "용도 전환"
+      ],
+      "source_title": "Qeeboo — Rabbit Collection",
+      "source_url": "https://www.qeeboo.com/en/collections/rabbit-collection",
+      "image_source_url": "https://www.qeeboo.com/en/collections/rabbit-collection",
+      "image_caption": "성인용 Rabbit Chair와 축소형 Rabbit Chair Baby를 비교하는 Qeeboo 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "하나의 동물 실루엣을 스케일과 기능으로 확장한 캐릭터 제품군",
+      "routes": [
+        "character",
+        "geometry",
+        "volume"
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/2283/1973/products/Qeeboo--Rabbit-Chair--design-Stefano-Giovannoni--08--pink.png?v=1639413603",
+        "https://cdn.shopify.com/s/files/1/2283/1973/products/Qeeboo--Rabbit-Chair-Baby--design-Stefano-Giovannoni--01--light-blue.png?v=1639482639"
+      ]
+    },
+    {
+      "id": "S12",
+      "name": "Fiber Chair Family",
+      "creator": "Iskos-Berlin / Muuto",
+      "category": "가구·조명·제품",
+      "description": "나무 섬유와 재활용 플라스틱 복합 셸을 바탕으로 사이드 체어·암체어·라운지·바 스툴까지 확장한 Muuto의 착석 제품군이다.",
+      "cohesion": "깊게 파인 셸과 부드러운 무광 표면, 공통 좌면 비례가 서로 다른 베이스와 크기를 연결한다.",
+      "variation": "다리·스위블 베이스, 암레스트, 실내·실외용, 패브릭과 색",
+      "palette": "내추럴 화이트·블랙·그레이·더스티 그린·오커",
+      "mechanisms": [
+        "목섬유 복합 성형",
+        "셸 공통화",
+        "베이스 교체"
+      ],
+      "source_title": "Muuto — The Fiber Family",
+      "source_url": "https://www.muuto.com/products/shop-by-family/fiber-chair-family/",
+      "image_source_url": "https://www.muuto.com/products/shop-by-family/fiber-chair-family/",
+      "image_caption": "Fiber Chair의 다양한 베이스·크기·착석 타입을 보여주는 Muuto 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 셸과 재료 기술을 좌석 유형과 베이스로 변주한 제품군",
+      "routes": [
+        "geometry",
+        "material",
+        "technique"
+      ],
+      "image_urls": [
+        "https://www.muuto.com/cdn-cgi/image/width=4000,quality=85,format=auto/globalassets/content-media/images/products/shop-by-family/fiber-chair-family/fiber-chair-concept-image.png",
+        "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/products/shop-by-family/fiber-chair-family/muuto_unfold_still_7.jpg",
+        "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/products/shop-by-family/fiber-chair-family/fiber-side-tube-base-dusty-green-concept-v2-muuto-org.png",
+        "https://www.muuto.com/cdn-cgi/image/width=1500,quality=85,format=auto/globalassets/content-media/images/products/shop-by-family/fiber-chair-family/slider/fiber-wood-hero-211-refine-leather-stone-forest-nap-912-hero-211-hero-451-stained-dark-brown-muuto-org.png"
+      ]
+    },
+    {
+      "id": "S13",
+      "name": "About A Chair Collection",
+      "creator": "Hee Welling & HAY",
+      "category": "가구·조명·제품",
+      "description": "식사·업무·라운지 환경을 위한 HAY의 AAC 컬렉션이다. 같은 쉘을 공유하면서 다리, 팔걸이, 실내 장식과 색상 조합을 바꾼다.",
+      "cohesion": "둥글게 감싼 폴리프로필렌 셸과 단정한 앞면 실루엣이 30개가 넘는 변형을 한 제품군으로 읽히게 한다.",
+      "variation": "다리 구조, 팔걸이, 패딩·가죽, 색과 높이",
+      "palette": "뉴트럴부터 더스티 블루·레드·그린까지의 컬러 시스템",
+      "mechanisms": [
+        "공통 셸",
+        "사출 성형",
+        "구성 부품 교체"
+      ],
+      "source_title": "HAY — About A Chair Collection",
+      "source_url": "https://www.hay.com/products/furniture/seating/chairs/about-a-chair",
+      "image_source_url": "https://www.hay.com/products/furniture/seating/chairs/about-a-chair",
+      "image_caption": "AAC 11·20·22·14 등 서로 다른 베이스와 마감의 HAY 공식 제품 사진",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "동일 셸을 좌석 용도·베이스·마감으로 확장한 컬렉션",
+      "routes": [
+        "geometry",
+        "material",
+        "color"
+      ],
+      "image_urls": [
+        "https://www.hay.com/img_20250424011708/img_20250424011708/globalassets/inriver/integration/service/aac-22_910x1100_brandmodel2.jpg",
+        "https://www.hay.com/img_20250424010306/img_20250424010306/globalassets/inriver/integration/service/aac-20_910x1100_brandmodel2.jpg",
+        "https://www.hay.com/img_20250424121943/img_20250424121943/globalassets/inriver/integration/service/aac-11_910x1100_brandmodel2.jpg",
+        "https://www.hay.com/img_20250424123704/img_20250424123704/globalassets/inriver/integration/service/aac-14_910x1100_brandmodel3.jpg"
+      ]
+    },
+    {
+      "id": "S14",
+      "name": "String Shelving System",
+      "creator": "Kajsa & Nisse Strinning / String Furniture",
+      "category": "가구·조명·제품",
+      "description": "1949년부터 이어진 스웨덴 String 선반 시스템이다. 얇은 와이어 사이드 패널, 선반, 캐비닛과 액세서리를 같은 규격으로 조합해 방과 용도에 맞게 확장한다.",
+      "cohesion": "와이어 격자와 선반 모듈의 반복이 낮은 구성부터 벽면 전체까지 연속된 시스템 언어를 만든다.",
+      "variation": "폭·높이·깊이, 선반·서랍·캐비닛 조합, 실내 공간",
+      "palette": "화이트·블랙·그레이와 목재 선반의 절제된 대비",
+      "mechanisms": [
+        "규격 모듈",
+        "와이어 절곡",
+        "무한 조합"
+      ],
+      "source_title": "String Furniture — String Shelving",
+      "source_url": "https://www.stringfurniture.com/en/series/string",
+      "image_source_url": "https://www.stringfurniture.com/en/series/string/system/combinations",
+      "image_caption": "String의 동일 부품이 거실·작업 공간·수납 구성으로 변하는 공식 조합 사례",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "고정된 규격과 접합으로 공간에 따라 증식하는 모듈 시스템",
+      "routes": [
+        "geometry",
+        "arrangement",
+        "technique"
+      ],
+      "image_urls": [
+        "https://commerce-services.bindgarn.com/media/storyblok/f/281765/1149x1149/7cc72df7fa/cabinets.png?w=960&h=960&mode=crop",
+        "https://commerce-services.bindgarn.com/media/storyblok/f/281765/1149x1149/6229f6227c/panels.png?w=960&h=960&mode=crop",
+        "https://commerce-services.bindgarn.com/media/storyblok/f/281765/1149x1149/0343ce4674/accessories.png?w=960&h=960&mode=crop"
+      ]
+    },
+    {
+      "id": "S15",
+      "name": "IC Lights Family",
+      "creator": "Michael Anastassiades / Flos",
+      "category": "가구·조명·제품",
+      "description": "유리 구와 금속 봉의 균형을 테이블·플로어·펜던트·벽·천장 조명으로 번역한 Flos IC Lights 가족이다.",
+      "cohesion": "한 개의 구형 광원과 가느다란 축의 비대칭 균형이 설치 방식이 달라도 공통된 아이콘을 만든다.",
+      "variation": "광원 수, 세로·가로 축, 설치 위치, 브라스·블랙·크롬 마감",
+      "palette": "오팔 유리와 브라스·블랙·크롬의 제한된 조합",
+      "mechanisms": [
+        "유리 블로잉",
+        "금속 봉 가공",
+        "설치 유형 변주"
+      ],
+      "source_title": "Flos — IC Lights Family",
+      "source_url": "https://flos.com/en/gb/shop-products/families/ic-lights-family/",
+      "image_source_url": "https://flos.com/en/gb/shop-products/families/ic-lights-family/",
+      "image_caption": "IC Lights의 테이블·천장·펜던트·플로어 타입을 보여주는 Flos 공식 제품 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "구와 축의 동일한 조형 문법을 설치 방식으로 확장한 조명군",
+      "routes": [
+        "geometry",
+        "material",
+        "feature"
+      ],
+      "image_urls": [
+        "https://flos.com/on/demandware.static/-/Sites-FLOS-master/default/dw0a332d0f/images/packshot/DECORATIVE/DECORATIVE_TABLE_IC/F3171059/ic-table-1low-anastassiades-flos-F3171059-product-still-life-big-1.jpg",
+        "https://flos.com/on/demandware.static/-/Sites-FLOS-master/default/dwf721748e/images/packshot/DECORATIVE/DECORATIVE_TABLE_IC/F3170059/ic-table-1high-anastassiades-flos-F3170059-product-still-life-big-2.jpg",
+        "https://flos.com/on/demandware.static/-/Sites-FLOS-master/default/dw0596bcfd/images/packshot/DECORATIVE/DECORATIVE_WALL_CEILING_IC/F3179059/IC-ceiling-wall-2-anastassiades-flos-F3179059-product-still-life-big-2.jpg",
+        "https://flos.com/on/demandware.static/-/Sites-FLOS-master/default/dw7854d143/images/packshot/DECORATIVE/DECORATIVE_SUSPENSION_IC/F3175059/ic-suspension-1-anastassiades-flos-F3175059-product-still-life-big-3.jpg"
+      ]
+    },
+    {
+      "id": "S16",
+      "name": "Pleats Please Issey Miyake",
+      "creator": "Issey Miyake",
+      "category": "텍스타일·패션",
+      "description": "한 장의 옷을 먼저 재단하고 열프레스 주름을 넣는 Pleats Please의 지속적인 의류군이다. 셔츠·재킷·팬츠·스카프가 같은 세로 주름의 신축성과 표면으로 묶인다.",
+      "cohesion": "반복 주름의 방향과 압축된 표면이 실루엣과 색상이 달라도 시리즈의 시각적 리듬을 유지한다.",
+      "variation": "의복 유형, 주름 폭·밀도, 길이와 색상",
+      "palette": "시즌별 원색·뉴트럴·투톤 컬러",
+      "mechanisms": [
+        "열주름 가공",
+        "한 장 재단",
+        "표면 신축"
+      ],
+      "source_title": "Issey Miyake — Pleats Please",
+      "source_url": "https://us.isseymiyake.com/collections/pleatsplease",
+      "image_source_url": "https://us.isseymiyake.com/collections/pleatsplease",
+      "image_caption": "Pleats Please의 서로 다른 아이템이 같은 주름 표면으로 연결되는 공식 온라인 스토어 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 주름 제조법을 의류 유형과 색상으로 확장한 패션 시스템",
+      "routes": [
+        "material",
+        "technique",
+        "geometry"
+      ],
+      "image_urls": [
+        "https://us.isseymiyake.com/cdn/shop/collections/pl_top_brandtop_pc200501_f2eaa126-d37f-4777-bc8a-3429c945174f.jpg?v=1764700341&width=640",
+        "https://us.isseymiyake.com/cdn/shop/files/PP63JK691-m-01.jpg?v=1788298409&width=360",
+        "https://us.isseymiyake.com/cdn/shop/files/PP63JG695-m-02.jpg?v=1788390176&width=360",
+        "https://us.isseymiyake.com/cdn/shop/files/PP63JF694-m-01.jpg?v=1788391827&width=360",
+        "https://us.isseymiyake.com/cdn/shop/files/PP63JH697-m-02.jpg?v=1788299081&width=360"
+      ]
+    },
+    {
+      "id": "S17",
+      "name": "Le Labo Classic Collection",
+      "creator": "Le Labo",
+      "category": "패키지·용기",
+      "description": "향수·바디·홈 프래그런스 제품이 같은 실험실 라벨과 병 비례를 공유하는 Le Labo의 클래식 컬렉션이다.",
+      "cohesion": "라벨의 타이포그래피, 투명·반투명 용기와 검은 캡이 향과 용도가 달라도 동일한 아카이브 인상을 준다.",
+      "variation": "향료, 병 크기, 스프레이·캔들·바디 제품 형식",
+      "palette": "투명 유리·백색 라벨·검정 문자 중심의 무채색 체계",
+      "mechanisms": [
+        "표준 라벨",
+        "병 규격화",
+        "향 조합 변주"
+      ],
+      "source_title": "Le Labo — Classic Collection",
+      "source_url": "https://www.lelabofragrances.com/fr/classic-collection.html",
+      "image_source_url": "https://www.lelabofragrances.com/fr/classic-collection.html",
+      "image_caption": "서로 다른 향수 제품이 같은 라벨·병 시스템으로 진열된 Le Labo 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 라벨과 용기 규격을 향과 제품 유형에 적용한 패키지군",
+      "routes": [
+        "feature",
+        "material",
+        "arrangement"
+      ],
+      "image_urls": [
+        "https://lelabo.ips.photos/lelabo-java/images/content/1635_ONE_SIZE_IMAGE_01_15414_-14777587.jpg",
+        "https://lelabo.ips.photos/lelabo-java/images/content/1667_ONE_SIZE_IMAGE_01_18147_-1222263140.jpg",
+        "https://lelabo.ips.photos/lelabo-java/images/content/1638_ONE_SIZE_IMAGE_01_15416_-35124813.jpeg",
+        "https://lelabo.ips.photos/lelabo-java/images/content/1639_ONE_SIZE_IMAGE_01_15422_156933757.jpeg",
+        "https://lelabo.ips.photos/lelabo-java/images/content/1642_ONE_SIZE_IMAGE_01_15420_-1884041759.jpg",
+        "https://lelabo.ips.photos/lelabo-java/images/content/1637_ONE_SIZE_IMAGE_01_15417_-1027329470.jpg"
+      ]
+    },
+    {
+      "id": "S18",
+      "name": "Aesop Product Range",
+      "creator": "Aesop",
+      "category": "패키지·용기",
+      "description": "헤어·스킨·바디 제품을 갈색·투명 병과 절제된 라벨로 통합하는 Aesop의 전체 제품군이다. 내용물과 용량이 바뀌어도 약국형 아카이브 선반처럼 읽힌다.",
+      "cohesion": "갈색 유리·플라스틱 용기, 검정 산세리프 라벨, 일정한 여백이 제품군 전체를 시각적으로 묶는다.",
+      "variation": "펌프·튜브·보틀 형식, 용량, 내용물과 사용 부위",
+      "palette": "앰버 브라운·블랙·크림 배경의 제한된 패키지 팔레트",
+      "mechanisms": [
+        "표준 라벨링",
+        "용기 규격화",
+        "내용물 확장"
+      ],
+      "source_title": "Aesop — All Products",
+      "source_url": "https://www.aesop.co.jp/all-products/",
+      "image_source_url": "https://www.aesop.co.jp/all-products/",
+      "image_caption": "헤어 오일·토너·클렌징 오일·핸드 밤·마우스워시를 함께 보여주는 Aesop 공식 제품 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 용기·라벨 언어를 다양한 카테고리로 확장한 패키지 시스템",
+      "routes": [
+        "feature",
+        "material",
+        "color"
+      ],
+      "image_urls": [
+        "https://www.aesop.co.jp/dw/image/v2/BCKQ_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw7674e104/images/products/HR25/Aesop_Hair_Hair_Oil_JP_25mL_Front_2000x2000px.jpg?sw=269&sfrm=png&q=70&bgcolor=fffef2",
+        "https://www.aesop.co.jp/dw/image/v2/BCKQ_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw357f7af6/images/products/SK42/Aesop_Skin_B_&_Tea_Balancing_Toner_100mL_Web_Front_2000x2000px.jpg?sw=269&sfrm=png&q=70&bgcolor=fffef2",
+        "https://www.aesop.co.jp/dw/image/v2/BCKQ_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw399b5b6d/images/products/SK39/Aesop_Skin_Parsley_Seed_Facial_Cleansing_Oil_200mL_Web_Front_2000x2000px.jpg?sw=269&sfrm=png&q=70&bgcolor=fffef2",
+        "https://www.aesop.co.jp/dw/image/v2/BCKQ_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw3722c747/images/products/BM13/Aesop_Hand_Reverence_Aromatique_Hand_Balm_500mL_Web_Texture_2000x2000px.jpg?sw=269&sfrm=png&q=70&bgcolor=fffef2",
+        "https://www.aesop.co.jp/dw/image/v2/BCKQ_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw18d152d2/images/products/BS18/Aesop_Personal_Care_Mouthwash_500mL_Web_Front_2000x2000px.jpg?sw=269&sfrm=png&q=70&bgcolor=fffef2",
+        "https://www.aesop.co.jp/dw/image/v2/BCKQ_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw6ecc78c0/images/products/APB280/Aesop_Kits_Departure_Carton_Front_2000x2000px.jpg?sw=270&sfrm=png&q=70&bgcolor=fffef2"
+      ]
+    },
+    {
+      "id": "S19",
+      "name": "Little Bird",
+      "creator": "Anderssen & Voll / Normann Copenhagen",
+      "category": "캐릭터·조각·완구",
+      "description": "작은 새의 둥근 몸통과 뾰족한 부리를 공통 모티프로 삼아 3·4.5·5·7·10cm 등 여러 크기와 목재·컬러 마감으로 확장한 Normann Copenhagen 장식 오브제군이다.",
+      "cohesion": "몸통·부리·두 발의 간결한 비례와 낮은 시선이 모든 크기에서 유지되어 작은 개체들이 한 무리로 읽힌다.",
+      "variation": "높이와 스케일, 오크·월넛 목재, 도장색",
+      "palette": "오크·월넛의 나뭇결과 라이트 핑크·잉크 블루·마젠타·블루 그린·옐로우",
+      "mechanisms": [
+        "공통 실루엣",
+        "스케일 변주",
+        "목재·도장 마감"
+      ],
+      "source_title": "Normann Copenhagen — Little Bird",
+      "source_url": "https://www.normann-copenhagen.com/en/product/product-collections/little-bird/",
+      "image_source_url": "https://www.normann-copenhagen.com/en/product/product-collections/little-bird/",
+      "image_caption": "Little Bird의 크기·목재·컬러 변형을 보여주는 Normann Copenhagen 공식 제품 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "하나의 새 실루엣을 스케일과 마감으로 반복한 캐릭터 오브제군",
+      "routes": [
+        "character",
+        "geometry",
+        "volume"
+      ],
+      "image_urls": [
+        "https://cdn.assets.struct.com/normann/6afc05fb-5c10-4ff7-837e-b8f2efd5f436/1.jpg?format=webp",
+        "https://cdn.assets.struct.com/normann/db90fa01-5723-4a4f-9bf6-bde792688ce8/1.jpg?format=webp",
+        "https://cdn.assets.struct.com/normann/24213d9d-1348-408e-af65-9e5149b2d471/1.jpg?format=webp",
+        "https://cdn.assets.struct.com/normann/0b594181-f25b-4f35-b219-e8c052c49b87/1.jpg?format=webp",
+        "https://cdn.assets.struct.com/normann/ce9d2707-8778-4e4d-bf0e-93b78e22f698/1.jpg?format=webp",
+        "https://cdn.assets.struct.com/normann/cf302cfe-0d02-47dc-91a8-036f0dd2d438/1.jpg?format=webp",
+        "https://cdn.assets.struct.com/normann/53560f24-6199-4a8b-a6cd-1c63d528e5cd/1.jpg?format=webp",
+        "https://cdn.assets.struct.com/normann/d657f55f-2124-4274-9fc1-17e52200535a/1.jpg?format=webp"
+      ]
+    },
+    {
+      "id": "S20",
+      "name": "Silhouettes",
+      "creator": "Alexander Girard / Vitra",
+      "category": "캐릭터·조각·완구",
+      "description": "Alexander Girard가 단순화한 동물·인물 실루엣을 얇은 목재 판형과 조각적 모서리로 반복한 Vitra 장식 오브제 시리즈다.",
+      "cohesion": "정면 프로필, 절제된 면 분할, 공통 두께가 종이 달라도 하나의 조형 언어로 묶인다.",
+      "variation": "동물·인물 모티프, 높이와 비례, 자연 목재·도장 표면",
+      "palette": "자연 목재·검정·제한된 컬러 도장",
+      "mechanisms": [
+        "프로필 실루엣",
+        "판형 절삭",
+        "모티프 변주"
+      ],
+      "source_title": "Vitra — Silhouettes",
+      "source_url": "https://www.vitra.com/en-us/product/silhouette/",
+      "image_source_url": "https://www.vitra.com/en-us/product/silhouette/",
+      "image_caption": "서로 다른 인물·동물 실루엣을 한 조형군으로 보여주는 Vitra 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통된 평면 실루엣 규칙으로 종과 표면을 확장한 장식 오브제군",
+      "routes": [
+        "character",
+        "geometry",
+        "material"
+      ],
+      "image_urls": [
+        "https://static.vitra.com/media/asset/2391061/storage/v_fullbleed_1440x/33035796.jpg",
+        "https://static.vitra.com/media/asset/2627578/storage/v_fullbleed_1440x/38878801.jpg",
+        "https://static.vitra.com/media/asset/2627579/storage/v_fullbleed_1440x/38878790.jpg",
+        "https://static.vitra.com/media/asset/2918812/storage/v_fullbleed_1440x/41027191.jpg"
+      ]
+    },
+    {
+      "id": "S21",
+      "name": "Girard Ornaments",
+      "creator": "Alexander Girard / Vitra",
+      "category": "그래픽·기호",
+      "description": "천사·비둘기·하트·달·생쥐·토끼·별·해 등 단순 아이콘을 한 규격의 목제 장식물로 만든 Alexander Girard의 오너먼트군이다.",
+      "cohesion": "납작한 아이콘 실루엣과 손으로 칠한 그래픽 면이 서로 다른 모티프를 하나의 기호 체계로 묶는다.",
+      "variation": "기호 모티프, 크기와 방향, 컬러 패턴",
+      "palette": "원색과 흰색·검정의 그래픽 대비",
+      "mechanisms": [
+        "아이콘 반복",
+        "목재 절삭",
+        "수작업 도장"
+      ],
+      "source_title": "Vitra — Girard Ornaments",
+      "source_url": "https://www.vitra.com/en-us/product/girard-ornaments",
+      "image_source_url": "https://www.vitra.com/en-us/product/girard-ornaments",
+      "image_caption": "Girard Ornaments의 여러 아이콘 모티프와 그래픽 표면을 보여주는 Vitra 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "서로 다른 기호를 동일한 평면·채색 규칙으로 묶은 장식 오브제군",
+      "routes": [
+        "symbol",
+        "geometry",
+        "color"
+      ],
+      "image_urls": [
+        "https://static.vitra.com/media/asset/3327542/storage/v_fullbleed_1440x/47005382.jpg",
+        "https://static.vitra.com/media/asset/1905189/storage/v_fullbleed_1440x/25058938.jpg",
+        "https://static.vitra.com/media/asset/1386701/storage/v_fullbleed_1440x/16312792.jpg",
+        "https://static.vitra.com/configurator-images/censhare/girard_ornaments_angel_9923083.png",
+        "https://static.vitra.com/configurator-images/censhare/girard_ornaments_dove_9923086.png",
+        "https://static.vitra.com/configurator-images/censhare/girard_ornaments_heart_9923085.png",
+        "https://static.vitra.com/configurator-images/censhare/girard_ornaments_moon_9923082.png"
+      ]
+    },
+    {
+      "id": "S22",
+      "name": "Miniatures Collection",
+      "creator": "Vitra Design Museum / Vitra",
+      "category": "가구·조명·제품",
+      "description": "20세기 대표 가구를 1:6 스케일로 축소 재현하는 Vitra Miniatures Collection이다. 서로 다른 의자·테이블·조명도 같은 축척과 세밀한 제작 기준으로 하나의 컬렉션처럼 묶인다.",
+      "cohesion": "공통 1:6 축척, 정밀 모형 제작, 원작 비례 보존이 모델 전체의 동질감을 만든다.",
+      "variation": "가구 유형, 원작의 재료·색, 구조적 디테일",
+      "palette": "원작의 목재·금속·패브릭·컬러를 축소 재현한 폭넓은 팔레트",
+      "mechanisms": [
+        "축척 통일",
+        "정밀 모형 제작",
+        "디자인 아카이브"
+      ],
+      "source_title": "Vitra — Miniatures Collection",
+      "source_url": "https://www.vitra.com/en-us/product/miniatures-collection",
+      "image_source_url": "https://www.vitra.com/en-us/product/miniatures-collection",
+      "image_caption": "서로 다른 클래식 가구를 같은 1:6 축척으로 묶어 보여주는 Vitra 공식 컬렉션 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "축척과 재현 정밀도를 고정해 가구 유형을 확장한 컬렉션",
+      "routes": [
+        "geometry",
+        "volume",
+        "technique"
+      ],
+      "image_urls": [
+        "https://static.vitra.com/media/asset/1621885/storage/v_fullbleed_1440x/40823526.jpg",
+        "https://static.vitra.com/media/asset/1566552/storage/v_fullbleed_1440x/17124409.jpg",
+        "https://static.vitra.com/media/asset/1566557/storage/v_fullbleed_1440x/17124476.jpg"
+      ]
+    },
+    {
+      "id": "S23",
+      "name": "Vases Découpage",
+      "creator": "Ronan & Erwan Bouroullec / Vitra",
+      "category": "도자·유리·공예",
+      "description": "원통형 세라믹 용기에 슬래브·바·원판 같은 점토 요소를 더해 구성하는 Vases Découpage다. Barre·Disque·Feuille·Boucle 네 세트가 같은 조형 문법을 공유한다.",
+      "cohesion": "기본 원통과 부가 점토 조각, 손으로 담근 색면이라는 반복 규칙이 네 세트를 한 가족으로 연결한다.",
+      "variation": "부가 요소의 모양과 배치, 색, 세트 타입",
+      "palette": "핸드딥 세라믹의 대비색·파스텔·중성색",
+      "mechanisms": [
+        "기본 원통",
+        "점토 조각 결합",
+        "핸드딥 유약"
+      ],
+      "source_title": "Vitra — Vases Découpage, Barre",
+      "source_url": "https://www.vitra.com/en-us/product/details/vases-decoupage-barre",
+      "image_source_url": "https://www.vitra.com/en-us/product/details/vases-decoupage-barre",
+      "image_caption": "원통형 용기와 점토 조각의 조합을 네 세트로 확장한 Vitra 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 용기와 부가 조각의 조합 규칙을 색·배치로 변주한 도자 시리즈",
+      "routes": [
+        "geometry",
+        "material",
+        "technique",
+        "arrangement"
+      ],
+      "image_urls": [
+        "https://static.vitra.com/media/asset/6226026/storage/v_fullbleed_1440x/67718392.jpg",
+        "https://static.vitra.com/media/asset/9190777/storage/v_parallax_1920x1080/83077743.jpg",
+        "https://static.vitra.com/media/asset/9726854/storage/v_parallax_1920x1080/90429873.jpg",
+        "https://static.vitra.com/media/asset/4089377/storage/v_parallax_1920x1080/53226044.jpg",
+        "https://static.vitra.com/media/asset/4089652/storage/v_parallax_1920x1080/53226790.jpg"
+      ]
+    },
+    {
+      "id": "S24",
+      "name": "Dip Collection",
+      "creator": "Aldo Bakker / Karakter x Cassina",
+      "category": "도자·유리·공예",
+      "description": "Dip Collection은 하나의 매끈한 유기적 실루엣을 꽃병·낮은 테이블·스툴·텀블러로 번역하는 Aldo Bakker의 오브제 가족이다. 서로 다른 재료와 규모가 같은 윤곽으로 연결된다.",
+      "cohesion": "단일 실루엣과 절제된 중성 팔레트가 기능과 재료가 달라진 오브제를 하나의 계열로 묶는다.",
+      "variation": "기능, 재료, 스케일과 높이",
+      "palette": "중성 세라믹 유약·코르크 자연색·투명 유리",
+      "mechanisms": [
+        "단일 실루엣",
+        "재료 번역",
+        "스케일 변주"
+      ],
+      "source_title": "Cassina — Karakter Dip Collection Vase",
+      "source_url": "https://www.cassina.com/ww/en/products/karakter-dip-collection-vase.html",
+      "image_source_url": "https://www.cassina.com/ww/en/products/karakter-dip-collection-vase.html",
+      "image_caption": "같은 실루엣을 세라믹·코르크·유리와 여러 기능으로 확장한 Cassina 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "하나의 윤곽을 재료·기능·스케일로 번역한 오브제 가족",
+      "routes": [
+        "geometry",
+        "material",
+        "volume"
+      ],
+      "image_urls": [
+        "https://www.cassina.com/content/dam/ld/cassina/products/k/a/r/kdc-karakter-dip-collection-vase/06_caratteristiche/01_caratteristiche-dip-collection-vase.jpg/jcr:content/renditions/cq5dam.thumbnail.1500.1500.jpg",
+        "https://www.cassina.com/content/dam/ld/cassina/products/k/a/r/kdc-karakter-dip-collection-vase/06_caratteristiche/02_caratteristiche-dip-collection-vase.jpg/jcr:content/renditions/cq5dam.thumbnail.1500.1500.jpg"
+      ]
+    },
+    {
+      "id": "S25",
+      "name": "Polygon",
+      "creator": "Jan Čtvrtník / Moser",
+      "category": "도자·유리·공예",
+      "description": "같은 몰드에서 손으로 불어 만든 두 개의 크리스털 화병이 서로 반대되는 팽창·안정 실루엣을 이루는 Moser Polygon 컬렉션이다.",
+      "cohesion": "공통 몰드, 다면 기하, 물결치는 벽면과 다색 유리 밑깔기 기법이 두 화병을 완벽한 쌍으로 묶는다.",
+      "variation": "입구로 벌어지는 방향과 무게 중심, 높이, 색 조합",
+      "palette": "아쿠아마린·그린·아메시스트 계열의 투명·다색 크리스털",
+      "mechanisms": [
+        "동일 몰드",
+        "핸드 블로운 크리스털",
+        "핸드 컷·폴리시"
+      ],
+      "source_title": "Moser — Polygon",
+      "source_url": "https://www.moser.com/en/polygon",
+      "image_source_url": "https://www.moser.com/en/polygon",
+      "image_caption": "서로 반대되는 두 화병이 한 쌍을 이루는 Moser 공식 Polygon 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "동일 몰드와 반대 방향의 변주로 완성되는 2점 유리 세트",
+      "routes": [
+        "geometry",
+        "material",
+        "technique",
+        "volume"
+      ],
+      "image_urls": [
+        "https://www.moser.com/variant/eshop/brand/edeeshop/moser/brand/hlavni-motiv/polygon/collection_polygon/1000x1000.jpg"
+      ]
+    },
+    {
+      "id": "S26",
+      "name": "Sestiere",
+      "creator": "Patricia Urquiola / Cassina",
+      "category": "도자·유리·공예",
+      "description": "둥근 불어 유리 화병을 손으로 덧댄 ‘morisa’ 코드망과 리가딘 줄무늬로 감싸는 Patricia Urquiola의 Sestiere 컬렉션이다.",
+      "cohesion": "구형 유리 몸체, 외부 코드망, 검정 리가딘이라는 세 요소가 높이와 색이 달라도 동일한 계열감을 만든다.",
+      "variation": "26·37cm 높이, 코드 색, 리가딘 줄무늬와 유리 색",
+      "palette": "아메시스트·레몬 옐로우·페일 블루·페트롤 그린·토파즈·레드",
+      "mechanisms": [
+        "무라노 유리 불기",
+        "수작업 코드 부착",
+        "리가딘 장식"
+      ],
+      "source_title": "Cassina — Sestiere",
+      "source_url": "https://www.cassina.com/ww/en/products/sestiere.html",
+      "image_source_url": "https://www.cassina.com/ww/en/products/sestiere.html",
+      "image_caption": "서로 다른 높이·색·코드 조합을 한 계열로 보여주는 Cassina 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 유리 몸체와 코드 장식으로 높이·색을 확장한 공예 컬렉션",
+      "routes": [
+        "geometry",
+        "material",
+        "technique",
+        "feature"
+      ],
+      "image_urls": [
+        "https://www.cassina.com/content/dam/ld/cassina/products/s/e/s/573-sestiere/21_variant-image/h_26-ametista_e_cordone_giallo_limone_con_rigadin_nero.jpg",
+        "https://www.cassina.com/content/dam/ld/cassina/products/s/e/s/573-sestiere/21_variant-image/h_26-ametista_e_cordone_giallo_limone_con_rigadin_nero_02.jpg"
+      ]
+    },
+    {
+      "id": "S27",
+      "name": "nomadd",
+      "creator": "NARUMI CORPORATION",
+      "category": "도자·유리·공예",
+      "description": "접시와 볼이 서로의 뚜껑이 되도록 설계된 NARUMI nomadd 본차이나 식기군이다. 8·12·14·18·21cm 플레이트와 여러 깊이의 볼이 같은 단순 모듈 형상으로 이어진다.",
+      "cohesion": "낮은 원형 비례, 접시-볼의 대응, 본차이나 표면과 적층 규칙이 크기와 용도가 달라도 한 세트로 읽히게 한다.",
+      "variation": "직경, 깊이, 접시·볼·보트 형태, 색상",
+      "palette": "화이트 본차이나와 선택 가능한 컬러 에디션",
+      "mechanisms": [
+        "원형 모듈",
+        "뚜껑·용기 대응",
+        "본차이나 성형"
+      ],
+      "source_title": "NARUMI — nomadd",
+      "source_url": "https://www.narumi.co.jp/en/collection/nomadd/",
+      "image_source_url": "https://www.narumi.co.jp/en/collection/nomadd/",
+      "image_caption": "다양한 직경·깊이의 접시와 볼을 한 규칙으로 보여주는 NARUMI 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 원형 모듈과 적층 대응으로 크기·용도를 확장한 식기군",
+      "routes": [
+        "geometry",
+        "material",
+        "volume",
+        "arrangement"
+      ],
+      "image_urls": [
+        "https://www.narumi.co.jp/wp-content/uploads/2023/09/e02357b6d8723ca64d5e122003ed611e-scaled.jpg"
+      ]
+    },
+    {
+      "id": "S31",
+      "name": "Figgjo 35",
+      "creator": "Ragnar Grimsrud / Figgjo",
+      "category": "도자·유리·공예",
+      "description": "Ragnar Grimsrud가 설계한 Figgjo 35는 좁은 림과 포개지는 컵·접시를 공통으로 사용하는 1960년대 식기 컬렉션이다. 컵과 접시의 여러 지름·높이가 같은 기능 중심 비례로 이어진다.",
+      "cohesion": "얇은 림, 단순한 원형 단면, 안정적인 포개짐이 컵·접시·소서를 한 제품군으로 연결한다.",
+      "variation": "컵·머그·소서·접시, 지름과 높이, 적층 방식",
+      "palette": "백색 세라믹 중심의 제한된 식기 팔레트",
+      "mechanisms": [
+        "세라믹 성형",
+        "적층 설계",
+        "공통 림 비례"
+      ],
+      "source_title": "Figgjo — Figgjo 35",
+      "source_url": "https://www.figgjo.com/series/35",
+      "image_source_url": "https://www.figgjo.com/series/35",
+      "image_caption": "컵·소서·접시가 같은 적층 비례로 이어지는 Figgjo 공식 제품군 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 림과 적층 규칙으로 식기 유형을 확장한 테이블웨어군",
+      "routes": [
+        "geometry",
+        "material",
+        "volume",
+        "technique"
+      ],
+      "image_urls": [
+        "https://www.figgjo.com/_next/image?url=https%3A%2F%2Fcms.figgjo.com%2Fcms%2F..%2Fwp-content%2Fuploads%2F2021%2F04%2FFiggjo_35_Full-scaled.jpg&w=3840&q=75",
+        "https://www.figgjo.com/_next/image?url=https%3A%2F%2Fcms.figgjo02.kodebyraaet.clh.no%2Fproductimages%2F3545HH.jpg&w=3840&q=100",
+        "https://www.figgjo.com/_next/image?url=https%3A%2F%2Fcms.figgjo02.kodebyraaet.clh.no%2Fproductimages%2F3542HH.jpg&w=3840&q=100",
+        "https://www.figgjo.com/_next/image?url=https%3A%2F%2Fcms.figgjo02.kodebyraaet.clh.no%2Fproductimages%2F3560UH.jpg&w=3840&q=100",
+        "https://www.figgjo.com/_next/image?url=https%3A%2F%2Fcms.figgjo02.kodebyraaet.clh.no%2Fproductimages%2F3561HH.jpg&w=3840&q=100",
+        "https://www.figgjo.com/_next/image?url=https%3A%2F%2Fcms.figgjo02.kodebyraaet.clh.no%2Fproductimages%2F3557UH.jpg&w=3840&q=100"
+      ]
+    },
+    {
+      "id": "S32",
+      "name": "Sobremesa Collection",
+      "creator": "Laila Gohar / HAY",
+      "category": "도자·유리·공예",
+      "description": "Laila Gohar와 HAY가 함께 만든 Sobremesa는 손으로 그린 줄무늬와 테이블웨어의 둥근 실루엣을 접시·볼·쿠키 자·화병으로 확장한 컬렉션이다.",
+      "cohesion": "반복되는 줄무늬 그래픽, 손그림의 미세한 편차, 둥근 식기 비례가 품목이 달라도 한 식탁 풍경처럼 묶인다.",
+      "variation": "화병·접시·볼·쿠키 자, 크기, 줄무늬 색 조합",
+      "palette": "레드·그린·옐로우·블루가 섞인 다색 스트라이프",
+      "mechanisms": [
+        "수작업 페인팅",
+        "공통 그래픽",
+        "용기 유형 변주"
+      ],
+      "source_title": "HAY — Sobremesa Stripe Vase / Collection",
+      "source_url": "https://www.hay.com/hay/accessories/indoor-living/vases--plant-pots/sobremesa-stripe-vase",
+      "image_source_url": "https://www.hay.com/hay/accessories/indoor-living/vases--plant-pots/sobremesa-stripe-vase",
+      "image_caption": "화병·접시·볼·쿠키 자가 같은 스트라이프 언어를 공유하는 HAY 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 그래픽과 손그림 표면으로 식기·용기 유형을 확장한 컬렉션",
+      "routes": [
+        "color",
+        "material",
+        "feature",
+        "geometry"
+      ],
+      "image_urls": [
+        "https://www.hay.com/img_20250422113840/globalassets/inriver/integration/service/sobremesa-stripe-vase_910x1100_brandmodel2.jpg?w=700",
+        "https://www.hay.com/globalassets/inriver/integration/service/ab615-a601-ab27_sobremesa-stripe-vase-s-red_gb_1220x1220_brandvariant2.jpg?w=500",
+        "https://www.hay.com/globalassets/inriver/integration/service/ab615-a603-ac67_sobremesa-vase-l-green-and-yellow_gb_1220x1220_brandvariant2.jpg?w=500",
+        "https://www.hay.com/img_20260521073534/img_20260521073534/globalassets/inriver/integration/service/sobremesa-serving-bowl_910x1100_brandmodel.jpg",
+        "https://www.hay.com/img_20250422111809/img_20250422111809/globalassets/inriver/integration/service/sobremesa-plate_1220x1220_brandmodel2.jpg",
+        "https://www.hay.com/img_20250422113336/img_20250422113336/globalassets/inriver/integration/service/sobremesa-stripe-cookie-jar_910x1100_brandmodel2.jpg"
+      ]
+    },
+    {
+      "id": "S33",
+      "name": "Jamesware Modular Ceramics",
+      "creator": "Jamesware Ceramics",
+      "category": "도자·유리·공예",
+      "description": "Jamesware는 같은 세라믹 조형 언어를 테이블웨어, 4점 세트, 뚜껑 있는 용기와 적층 구성으로 확장하는 모듈 컬렉션이다.",
+      "cohesion": "낮고 둥근 용기 비례, 매끈한 유약 표면, 뚜껑과 본체의 반복이 서로 다른 구성도 한 가족으로 보이게 한다.",
+      "variation": "접시·볼·컵·서버, 용기의 높이와 뚜껑 조합, 색상",
+      "palette": "백색·뉴트럴·딥 컬러 유약의 단색 조합",
+      "mechanisms": [
+        "세라믹 성형",
+        "뚜껑·본체 대응",
+        "적층 모듈"
+      ],
+      "source_title": "Jamesware Ceramics — Modular Collections",
+      "source_url": "https://jamesware.com/",
+      "image_source_url": "https://jamesware.com/",
+      "image_caption": "테이블웨어와 적층 용기를 같은 모듈 언어로 보여주는 Jamesware 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "공통 세라믹 비례와 모듈 조합으로 식기·용기를 확장한 컬렉션",
+      "routes": [
+        "geometry",
+        "material",
+        "arrangement",
+        "technique"
+      ],
+      "image_urls": [
+        "https://jamesware.com/cdn/shop/files/jamesware_tableware_hero.jpg?v=1613158611&width=3000",
+        "https://jamesware.com/cdn/shop/files/Templated-Foundational-Set-Configuration-8_b702e73c-512b-4856-9c75-29eab4d6a2ce.jpg?v=1697772562&width=535",
+        "https://jamesware.com/cdn/shop/files/sets_homepage.jpg?v=1613158562&width=535",
+        "https://jamesware.com/cdn/shop/products/Side_Dish_Side_Sets_Teal_0c756820-b68b-473b-ab2c-537b17cd7be8.jpg?v=1608590499&width=535",
+        "https://jamesware.com/cdn/shop/products/The_Maraq_Stacked.jpg?v=1764450597&width=535"
+      ]
+    },
+    {
+      "id": "S34",
+      "name": "Birds by Toikka",
+      "creator": "Oiva Toikka / Iittala",
+      "category": "캐릭터·조각·완구",
+      "description": "Oiva Toikka가 1972년 시작한 Birds by Toikka는 서로 다른 새의 몸통·부리·날개를 유리 조형으로 해석해 이어가는 Iittala의 장기 시리즈다.",
+      "cohesion": "종마다 실루엣과 색은 달라도 낮고 둥근 몸통, 압축된 머리, 유리 표면의 광택이라는 공통 조형 언어가 한 무리처럼 묶는다.",
+      "variation": "새의 종·자세·크기, 투명도와 유리색, 표면 패턴",
+      "palette": "투명 유리부터 청색·적색·황색·흑색의 불투명 유리까지 개체별 변주",
+      "mechanisms": [
+        "새 형상 변주",
+        "입으로 불어 만든 유리",
+        "손작업 표면"
+      ],
+      "source_title": "Iittala — Birds by Toikka",
+      "source_url": "https://www.iittala.com/en-gb/collections/all-collections/birds-by-toikka",
+      "image_source_url": "https://www.iittala.com/en-gb/universe/inspiration/the-story-of-birds",
+      "image_caption": "서로 다른 새 실루엣과 유리색이 한 컬렉션으로 모이는 Birds by Toikka 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "하나의 조류 모티프와 유리 제작 공정을 종·자세·색의 차이로 확장한 장기 컬렉션",
+      "routes": [
+        "character",
+        "material",
+        "technique",
+        "volume"
+      ],
+      "image_urls": [
+        "https://www.iittala.com/-/media/iittala/weekly-lifts-and-brand-campaigns/q2-26-story-of-birds/1080x720_iittala_2026_birds_by_toikka_flycatcher_group_story_of.jpg",
+        "https://www.iittala.com/-/media/iittala/weekly-lifts-and-brand-campaigns/q2-26-story-of-birds/1080x1350_iittala_ss2026_birds_by_toikka_01.jpg?q=100&iw=1080&ih=1080&crop=0",
+        "https://www.iittala.com/-/media/iittala/weekly-lifts-and-brand-campaigns/q2-26-story-of-birds/1080x1350_iittala_ss2026_birds_by_toikka_03.jpg?q=100&iw=1080&ih=1080&crop=0",
+        "https://www.iittala.com/-/media/iittala/weekly-lifts-and-brand-campaigns/q2-26-story-of-birds/1080x720_iittala_2026_birds_by_toikka_group_story_of.jpg?q=100&iw=1080&ih=1080&crop=0"
+      ]
+    },
+    {
+      "id": "S35",
+      "name": "Big Five",
+      "creator": "Maximilian Hagstotz / Meissen",
+      "category": "캐릭터·조각·완구",
+      "description": "Meissen의 Big Five는 버펄로·코끼리·코뿔소·표범·사자를 하나의 통일된 조형 스타일로 만든 다섯 점의 도자 동물 시리즈다.",
+      "cohesion": "각 동물은 자연주의 복제보다 각진 목조 조각처럼 단순화된 덩어리와 선을 공유해 종이 달라도 한 조각군으로 읽힌다.",
+      "variation": "동물 종, 몸통의 방향과 높이, 표면 문양과 세부 선",
+      "palette": "백색 도자 바탕 위 아프리카 문양의 흑색·갈색·금색 계열",
+      "mechanisms": [
+        "단일 조형 스타일",
+        "도자 성형·채색",
+        "동물 종 변주"
+      ],
+      "source_title": "Meissen — Big Five",
+      "source_url": "https://www.meissen.com/net/seriescategory/big-five",
+      "image_source_url": "https://www.meissen.com/net/seriescategory/big-five",
+      "image_caption": "다섯 종을 하나의 각진 조형 스타일로 묶은 Meissen 공식 시리즈 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "서로 다른 동물의 특징을 공통된 조각 어휘와 장식 규칙으로 번역한 단일 시리즈",
+      "routes": [
+        "character",
+        "material",
+        "feature",
+        "technique",
+        "volume"
+      ],
+      "image_urls": [
+        "https://www.meissen.com/pub/media/thinkideas/meissencategory/videoImage/h/e/header_bigfive-min_1.jpeg",
+        "https://www.meissen.com/pub/media/thinkideas/meissencategory/twoImage/m/e/meissen_porzellan_kollektion_figuren_big-five_02_1.jpg",
+        "https://www.meissen.com/pub/media/thinkideas/meissencategory/twoImage/b/i/big-five_03_1.jpg",
+        "https://www.meissen.com/pub/media/catalog/product/cache/2c6462166674fc60f924f78b95694ae8/6/5/65o007-78014-1_01.png",
+        "https://www.meissen.com/pub/media/catalog/product/cache/2c6462166674fc60f924f78b95694ae8/6/5/65o007-78015-1_01.png",
+        "https://www.meissen.com/pub/media/catalog/product/cache/2c6462166674fc60f924f78b95694ae8/6/5/65o007-78016-1_01.png",
+        "https://www.meissen.com/pub/media/catalog/product/cache/2c6462166674fc60f924f78b95694ae8/6/5/65o007-78017-1_01.png",
+        "https://www.meissen.com/pub/media/catalog/product/cache/2c6462166674fc60f924f78b95694ae8/6/5/65o007-78018-1_01.png"
+      ]
+    },
+    {
+      "id": "S36",
+      "name": "Animal Collection",
+      "creator": "Setsu & Shinobu Ito / Riva1920",
+      "category": "캐릭터·조각·완구",
+      "description": "Riva1920의 Animal Collection은 토끼·개·고양이·용·원숭이·뱀·판다를 향기로운 재생 삼나무로 조각한 동물 오브제군이다.",
+      "cohesion": "종마다 실루엣은 크게 다르지만 한 덩어리의 목재를 깎아낸 듯한 단순한 면과 따뜻한 나뭇결이 모두에게 이어진다.",
+      "variation": "동물 종, 자세와 신체 비례, 크기와 한 개 또는 여러 목재 블록의 결합",
+      "palette": "재생 삼나무의 자연색과 나뭇결을 중심으로 한 단일 재료감",
+      "mechanisms": [
+        "목재 조각",
+        "동물 종 변주",
+        "재생 목재 활용"
+      ],
+      "source_title": "Riva1920 — Animal Collection",
+      "source_url": "https://www.riva1920.it/en/collections/home-decor-collections/animal-collection",
+      "image_source_url": "https://www.riva1920.it/en/collections/home-decor-collections/animal-collection",
+      "image_caption": "서로 다른 동물 조각을 동일한 재생 목재 조형 언어로 묶은 Riva1920 공식 이미지",
+      "set_type": "디자인 시리즈·세트",
+      "relationship_detail": "동물의 종류는 달라도 같은 목재 덩어리와 절삭 어휘를 유지하는 조각 오브제군",
+      "routes": [
+        "character",
+        "material",
+        "feature",
+        "technique",
+        "volume"
+      ],
+      "image_urls": [
+        "https://www.riva1920.it/components/com_riva/files/collections/Riva1920_Animal-Collection_1.jpg",
+        "https://www.riva1920.it/components/com_riva/files/collections/Riva1920_Animal-Collection_2.jpg",
+        "https://www.riva1920.it/components/com_riva/files/collections/Riva1920_Animal-Collection_3.jpg",
+        "https://www.riva1920.it/components/com_riva/files/collections/Riva1920_Animal-Collection_4.jpg",
+        "https://www.riva1920.it/components/com_riva/files/collections/Riva1920_Animal-Collection_5.jpg",
+        "https://www.riva1920.it/components/com_riva/files/collections/Riva1920_Animal-Collection_6.jpg",
+        "https://www.riva1920.it/components/com_riva/files/collections/Riva1920_Animal-Collection_7.jpg",
+        "https://www.riva1920.it/components/com_riva/files/collections/Riva1920_Animal-Collection_8.jpg",
+        "https://www.riva1920.it/components/com_riva/files/products/panda1743497471.jpg",
+        "https://www.riva1920.it/components/com_riva/files/products/tatsu1743497474.jpg",
+        "https://www.riva1920.it/components/com_riva/files/products/usako1743497474.jpg",
+        "https://www.riva1920.it/components/com_riva/files/products/wan1743497475.jpg",
+        "https://www.riva1920.it/components/com_riva/files/products/neko1743497469.jpg",
+        "https://www.riva1920.it/components/com_riva/files/products/osaru1743497471.jpg",
+        "https://www.riva1920.it/components/com_riva/files/products/HEBI_Thumb-e-Header-Sito.jpg"
+      ]
+    }
+  ]
+}
